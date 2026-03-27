@@ -1,0 +1,9 @@
+{
+  "compilerOptions": {
+    "paths": {
+      "@/*": ["./src/*"]
+    },
+    // "jsx": "react-jsx"
+  },
+  // "include": ["src/**/*.ts", "src/**/*.tsx", "src/**/*.vue"]
+}

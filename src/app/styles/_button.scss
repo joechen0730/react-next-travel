@@ -1,0 +1,44 @@
+@use './variables' as *;
+@import "tailwindcss";
+
+@layer base {
+  .bg-gray-100 {
+    backgroud-color: #000;
+  }
+}
+
+@layer components {
+  .card {
+    background-color: theme('colors.white');
+    border-radius: theme('borderRadius.lg');
+    padding: theme('spacing.6');
+    box-shadow: theme('boxShadow.xl');
+  }
+  .select2-dropdown {
+    @apply rounded-b-lg shadow-md;
+  }
+  .select2-search {
+    @apply border border-gray-300 rounded;
+  }
+  .select2-results__group {
+    @apply text-lg font-bold text-gray-900;
+  }
+}
+
+// .base {
+// background-color: blue;
+// }
+// @layer base {
+// * {
+//   @apply p-0 m-0 box-border;
+//   }
+//   h1 {
+//   @apply text-2xl;
+//   }
+//   h2 {
+//   @apply text-xl;
+//   }
+//   h3 {
+//   @apply text-lg;
+//   }
+// }
