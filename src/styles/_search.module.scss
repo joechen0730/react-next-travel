@@ -1,0 +1,13 @@
+@reference "tailwindcss";
+
+.searchSelect {
+  @apply block w-full px-3 py-2.5 border text-sm rounded-sm text-mist-100 cursor-pointer;
+  font-weight: 700;
+}
+
+.searchInput {
+  @apply px-3 py-2.5 border text-sm rounded-sm text-mist-100 focus-visible:outline-none;
+}
+.searchBtn {
+   @apply px-3 w-25 ml-auto py-2.5 border text-sm rounded-sm text-mist-100 cursor-pointer hover:bg-sky-700 transition;
+}

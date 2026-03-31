@@ -1,0 +1,21 @@
+@import "tailwindcss/";
+// @import "./variables.scss";
+@layer layout {
+
+  .banner {
+    background-image: url('/BG_1280*400.png');
+    background-size: cover;
+    background-repeat: no-repeat; 
+    background-position: top; 
+  }
+  .banner-section  {
+    @apply min-h-85 flex flex-col items-center justify-center relative;
+    &-mask {
+      @apply absolute top-0 left-0 w-full h-full bg-gray-500 opacity-[80%] z-0;
+    }
+    &-title {
+      @apply h-full z-10 relative text-shadow-sm lg:text-[60px] md:text-[48px] text-[36px];
+      font-family: Shadows Into Light, cursive;
+    }
+  }
+}
