@@ -9,9 +9,7 @@ import { getAttractions } from '@/lib/attractions-api'
 import { getCategoryIds } from '@/lib/categoryIds-api'
 
 export default function HomeClient() {
-    const basePath = process.env.NODE_ENV === 'production'
-    ? '/react-next-travel'
-    : ''
+
   const searchParams = useSearchParams()
 
   const keyword = searchParams.get('keyword') ?? ''
@@ -88,7 +86,7 @@ export default function HomeClient() {
   if (loading) {
     return <div className="p-4">Loading...</div>
   }
-
+  const basePath = process.env.NODE_ENV === 'production' ? '/react-next-travel' : ''
   return (
     <div>
       {showAlert && (
@@ -127,6 +125,7 @@ export default function HomeClient() {
             currentPage={Number(page)}
             totalPage={10}
             count={attractionsList.data.length}
+            pageSize={30}
           />
         </section>
       </div>

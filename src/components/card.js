@@ -4,6 +4,7 @@ const colors = [
   'bg-yellow-50',
   'bg-green-50',
 ]
+
 export default function Card({
   attractionsList,
   selectedIds,
@@ -11,9 +12,7 @@ export default function Card({
   favoriteIds,
   hydrated,
 }) {
-  const basePath = process.env.NODE_ENV === 'production'
-    ? '/react-next-travel'
-    : ''
+  const basePath = process.env.NODE_ENV === 'production' ? '/react-next-travel' : ''
   return (
     <div className="grid md:grid-cols-3 md:gap-4 gap-2 grid-cols-1"> 
       {attractionsList.map((attraction) => {
@@ -43,7 +42,7 @@ export default function Card({
               ${isFavorited ?  '': 'cursor-pointer'}  
             `}
           >
-            <Image 
+            <img 
               width={200}
               height={200}
               className="w-full" 
