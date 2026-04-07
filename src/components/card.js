@@ -41,7 +41,7 @@ export default function Card({
               ${isFavorited ?  '': 'cursor-pointer'}  
             `}
           >
-            <Image 
+            <img 
               width={200}
               height={200}
               className="w-full" 
