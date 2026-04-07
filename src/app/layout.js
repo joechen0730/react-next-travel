@@ -6,7 +6,9 @@ export const metadata = {
 };
 
 export default function RootLayout({ children }) {
-
+  const basePath = process.env.NODE_ENV === 'production'
+    ? '/react-next-travel'
+    : ''
   return (
     <html
       lang="en"
@@ -14,7 +16,12 @@ export default function RootLayout({ children }) {
     >
       <body className="min-h-full flex flex-col">
         <div>
-          <div className="banner banner-section ">
+          <div 
+            className="banner banner-section"
+            style={{
+              backgroundImage: `url(${basePath}/BG_1280*400.png)`
+            }}
+          >
             <div className="banner-section-mask"></div>
             <h1 className="banner-section-title">{metadata.title}</h1>
             {/* <SearchComponent></SearchComponent> */}

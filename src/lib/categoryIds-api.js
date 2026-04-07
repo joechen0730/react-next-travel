@@ -1,7 +1,9 @@
 import request from '@/lib/request'
 
 export async function getCategoryIds(type='') {
-  const useMock = process.env.NEXT_PUBLIC_USE_MOCK === 'true'
+  // const useMock = process.env.NEXT_PUBLIC_USE_MOCK === 'true'
+  // for build
+  const useMock = true
 
   if (useMock) {
     return request({

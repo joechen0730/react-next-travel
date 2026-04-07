@@ -5,7 +5,9 @@ export async function getAttractions({
   categoryIds = '',
   page = '1'
 }) {
-  const useMock = process.env.NEXT_PUBLIC_USE_MOCK === 'true'
+  // const useMock = process.env.NEXT_PUBLIC_USE_MOCK === 'true'
+  // for build
+  const useMock = true
 
   let result
 
