@@ -10,13 +10,12 @@ export default function Card({
   selectedIds,
   onToggle,
   favoriteIds,
-  hydrated,
 }) {
   const basePath = process.env.NODE_ENV === 'production' ? '/react-next-travel' : ''
   return (
     <div className="grid md:grid-cols-3 md:gap-4 gap-2 grid-cols-1"> 
       {attractionsList.map((attraction) => {
-      const isFavorited = hydrated && favoriteIds?.has(attraction.id)
+      const isFavorited = favoriteIds?.has(attraction.id)
       return (
         
         <article key={`${attraction.id}-${attraction.name}`} className="max-w-sm rounded overflow-hidden shadow-lg bg-gray-50 relative">
