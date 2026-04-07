@@ -1,0 +1,3 @@
+:HL["/react-next-travel/_next/static/chunks/0zt.3igielpjr.css","style"]
+:HL["/react-next-travel/_next/static/chunks/05ull9a7wx958.css","style"]
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}},"staleTime":300,"buildId":"P2HKZNhcs5KtXn37hOM1j"}
