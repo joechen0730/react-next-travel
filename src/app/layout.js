@@ -1,5 +1,4 @@
 import "@/styles/globals.scss";
-import SearchComponent from '@/components/search/search.js'
 
 export const metadata = {
   title: "Taiwan Travel Website ",
@@ -7,6 +6,7 @@ export const metadata = {
 };
 
 export default function RootLayout({ children }) {
+
   return (
     <html
       lang="en"
@@ -17,7 +17,7 @@ export default function RootLayout({ children }) {
           <div className="banner banner-section ">
             <div className="banner-section-mask"></div>
             <h1 className="banner-section-title">{metadata.title}</h1>
-            <SearchComponent></SearchComponent>
+            {/* <SearchComponent></SearchComponent> */}
           </div>
           <div className="flex flex-col flex-1 items-center justify-center bg-zinc-50 font-sans dark:bg-black">
             <main className="flex flex-1 w-full max-w-5xl flex-col items-center justify-between mt-8 py-4 px-4 mb-2 bg-white dark:bg-black sm:items-start">

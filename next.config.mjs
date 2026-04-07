@@ -9,6 +9,10 @@ const nextConfig = {
   sassOptions: {
     includePaths: [path.join(__dirname, 'src/app/styles')],
   },
+  images: {
+    domains: ['www.travel.taipei'],
+    remotePatterns: [new URL('https://www.travel.taipei/image/**')]
+  }
 }
 
 export default nextConfig

@@ -1,0 +1,2296 @@
+{
+  "total": 474,
+  "data": [
+    {
+      "id": 394,
+      "name": "三創生活",
+      "name_zh": null,
+      "open_status": 1,
+      "introduction": "「三創生活」坐落於市民大道三段與金山北路交界，佔地2,687坪，建築外觀呈現前瞻氣勢，立面設計詮釋產業特性，結合鄰近綠帶的視野，實踐自然與科技共生的設計理念。\r\n\r\n空間規劃導入科技生活、潮流影音、子親娛樂、動漫文化、探索體驗、創作育成及藝術展演等多元概念，結合園區內隨處可見的數位視屏，讓影像的多元樣貌，觸動對生活的無限想像。\r\n\r\n園區以人為核心，打造實踐未來的生活平台。期待能藉由互動、分享、探索、學習與創作，帶領大眾重新建構科技、文化與生活的連結。\r\n\r\n園區共12層樓，緊鄰光華數位新天地，提供選購3C產品的更多選擇。\r\n\r\n\r\n\r\n",
+      "open_time": "週日至週四 11:00-21:30／週五至週六及國定假日前夕 11:00-22:00",
+      "zipcode": "100",
+      "distric": "中正區",
+      "address": "100 臺北市中正區市民大道三段2號",
+      "tel": "+886-809-093300",
+      "fax": "",
+      "email": "",
+      "months": "01,07,02,08,03,09,04,10,05,11,06,12",
+      "nlat": 25.04535,
+      "elong": 121.53111,
+      "official_site": "https://www.syntrend.com.tw/",
+      "facebook": "https://www.facebook.com/syntrend/",
+      "ticket": "",
+      "remind": "",
+      "staytime": "",
+      "modified": "2025-05-03 15:12:20 +08:00",
+      "url": "https://www.travel.taipei/zh-tw/attraction/details/394",
+      "category": [
+        {
+          "id": 19,
+          "name": "親子共遊"
+        },
+        {
+          "id": 24,
+          "name": "主題商街"
+        }
+      ],
+      "target": [],
+      "service": [],
+      "friendly": [],
+      "images": [
+        {
+          "src": "https://www.travel.taipei/image/65876",
+          "subject": "",
+          "ext": ".jpg"
+        },
+        {
+          "src": "https://www.travel.taipei/image/65877",
+          "subject": "",
+          "ext": ".jpg"
+        },
+        {
+          "src": "https://www.travel.taipei/image/65879",
+          "subject": "",
+          "ext": ".jpg"
+        },
+        {
+          "src": "https://www.travel.taipei/image/65880",
+          "subject": "",
+          "ext": ".jpg"
+        },
+        {
+          "src": "https://www.travel.taipei/image/65883",
+          "subject": "",
+          "ext": ".jpg"
+        },
+        {
+          "src": "https://www.travel.taipei/image/65884",
+          "subject": "",
+          "ext": ".jpg"
+        },
+        {
+          "src": "https://www.travel.taipei/image/65885",
+          "subject": "",
+          "ext": ".jpg"
+        },
+        {
+          "src": "https://www.travel.taipei/image/65886",
+          "subject": "",
+          "ext": ".jpg"
+        },
+        {
+          "src": "https://www.travel.taipei/image/65891",
+          "subject": "",
+          "ext": ".jpg"
+        },
+        {
+          "src": "https://www.travel.taipei/image/65874",
+          "subject": "",
+          "ext": ".jpg"
+        },
+        {
+          "src": "https://www.travel.taipei/image/65875",
+          "subject": "",
+          "ext": ".jpg"
+        }
+      ],
+      "files": [],
+      "links": []
+    },
+    {
+      "id": 399,
+      "name": "通化公園",
+      "name_zh": null,
+      "open_status": 1,
+      "introduction": "本公園位於文昌街與通化街口，於民國76年建立，原命名為「文通公園」，面積1,180平方公尺，後改「文通公園」為「通化公園」。\r\n\r\n通化公園外側之文昌街為臺北市著名的「家具街」，隨處可見販售各式家具的店家，而不遠處則是具有客家文化的臨江街夜市，是臺北市有名的夜市，近200個攤位的各種美食小吃，讓許多臺北人流連忘返。\r\n\r\n通化公園入口處種有四季草花，隨著季節變化而有所不同，花架上的九重葛，每到開花季節，滿滿的紅花點綴整個公園讓人不注意都難，雖然公園整體規劃硬鋪面居多，但種有阿勃勒、榕樹、玉蘭花，茂密枝葉仍提供良好的遮蔭效果，樹木下方雖然光線不夠充足，但是以萬年青、腎蕨、變葉木、朱蕉等較耐陰植栽配置，讓整個公園生態更加豐富。\r\n\r\n(資料來源：臺北市政府民政局)",
+      "open_time": "全天開放",
+      "zipcode": "106",
+      "distric": "大安區",
+      "address": "106 臺北市大安區文昌街與通化街口",
+      "tel": "+886-23511711#9302",
+      "fax": "",
+      "email": "",
+      "months": "01,07,02,08,03,09,04,10,05,11,06,12",
+      "nlat": 25.032233214244194,
+      "elong": 121.5545730568349,
+      "official_site": "https://parks.taipei/parks/m2/pkl_parks_m2C.php?sid=227",
+      "facebook": "",
+      "ticket": "",
+      "remind": "",
+      "staytime": "",
+      "modified": "2025-05-03 15:02:25 +08:00",
+      "url": "https://www.travel.taipei/zh-tw/attraction/details/399",
+      "category": [
+        {
+          "id": 16,
+          "name": "戶外踏青"
+        },
+        {
+          "id": 19,
+          "name": "親子共遊"
+        }
+      ],
+      "target": [
+        {
+          "id": 61,
+          "name": "親子共學"
+        },
+        {
+          "id": 62,
+          "name": "校外教學"
+        },
+        {
+          "id": 66,
+          "name": "健行族"
+        }
+      ],
+      "service": [],
+      "friendly": [],
+      "images": [
+        {
+          "src": "https://www.travel.taipei/image/65907",
+          "subject": "",
+          "ext": ".jpg"
+        },
+        {
+          "src": "https://www.travel.taipei/image/65908",
+          "subject": "",
+          "ext": ".jpg"
+        },
+        {
+          "src": "https://www.travel.taipei/image/65910",
+          "subject": "",
+          "ext": ".jpg"
+        },
+        {
+          "src": "https://www.travel.taipei/image/65911",
+          "subject": "",
+          "ext": ".jpg"
+        },
+        {
+          "src": "https://www.travel.taipei/image/65912",
+          "subject": "",
+          "ext": ".jpg"
+        }
+      ],
+      "files": [],
+      "links": []
+    },
+    {
+      "id": 401,
+      "name": "榮星花園公園",
+      "name_zh": null,
+      "open_status": 1,
+      "introduction": "榮星花園公園位於中山區，地處市區中心，東臨龍江街、西鄰建國北路、南為民權東路、北為五常街，基地呈長方形，面積總計6.5公頃，57年由民間建設落成民營花園，民國78年8月完成徵收開闢成公園，開放供公眾使用。\r\n\r\n公園於90~95年分3期更新整建，除保留民眾拍攝婚紗的九重葛花廊、瑠公圳自然濕地生態池、營造水景表演舞臺、西南側晨昏使用的樹蔭廣場，提供不同時段跳舞、打太極拳、東北區陽光草坪、楓香枕木林道、休閒園路、景觀荷花池、木棧道、兒童遊憩區、籃球場、紅磚土跑道、有造型的管理服務中心、三座舒適之公廁、多人使用之涼亭，提供下棋談天等優質的遊憩及活動空間。近年對生態的重視，透過里長與在地居民及專家學者的合作，在生態池復育螢火蟲，並本處持續進行生態調查及規劃環境改善方式。目前已有穩定的螢火蟲族群，成為臺北市區內少見能觀賞到螢火蟲的去處。\r\n\r\n(資料來源：臺北市政府工務局公園路燈工程管理處)",
+      "open_time": "全天開放",
+      "zipcode": "104",
+      "distric": "中山區",
+      "address": "104 臺北市中山區民權東路三段1號",
+      "tel": "+886-2-25170557",
+      "fax": "",
+      "email": "",
+      "months": "01,07,02,08,03,09,04,10,05,11,06,12",
+      "nlat": 25.06337,
+      "elong": 121.53886,
+      "official_site": "https://parks.gov.taipei/parks/m2/pkl_parks_m2C.php?sid=647",
+      "facebook": "",
+      "ticket": "",
+      "remind": "",
+      "staytime": "",
+      "modified": "2025-05-03 15:00:57 +08:00",
+      "url": "https://www.travel.taipei/zh-tw/attraction/details/401",
+      "category": [
+        {
+          "id": 16,
+          "name": "戶外踏青"
+        },
+        {
+          "id": 19,
+          "name": "親子共遊"
+        }
+      ],
+      "target": [],
+      "service": [],
+      "friendly": [],
+      "images": [],
+      "files": [],
+      "links": []
+    },
+    {
+      "id": 404,
+      "name": "法鼓山_農禪寺",
+      "name_zh": null,
+      "open_status": 1,
+      "introduction": "法鼓山是由東初老人創建的「中華佛教文化館」與「農禪寺」發展而來。1955年，東初老人於北投興建中華佛教文化館，以推動佛教文化、開辦冬令救濟。1971年，並帶領弟子於關渡平原整地開墾，於1975年一棟農舍落成啟用，東初老人以「禪修為主，務農為生」將此處命名為「農禪寺」。\r\n\r\n1977年，東初老人無疾坐化，囑付聖嚴法師繼承法業，接任中華佛教文化館、農禪寺住持，致力弘揚佛法與禪修推廣工作。由於信眾日增，為了要尋找一個具有長久性、安定性和未來性的道場建築用地，1989年7月，聖嚴法師正式宣佈將金山的新道場命名為「法鼓山」，並為道場未來的建設勾勒出清晰的藍圖─發揮教育、文化、弘法的功能，為一般信眾提供一個修行佛法、淨化身心的良好環境，運用佛法來安定人心、安定社會。\r\n(資料來源：法鼓山_農禪寺 官方網站)\r\n\r\n建築特色\r\n法鼓山農禪寺的建築融合了傳統禪宗寺院的元素與現代設計，並巧妙地與周圍的自然環境相融合。整體建築風格簡潔、樸實，注重空間的開放性與自然光的引入，旨在創造一個和諧、寧靜的修行與生活空間。",
+      "open_time": "",
+      "zipcode": "112",
+      "distric": "北投區",
+      "address": "112 臺北市北投區大業路65巷89號",
+      "tel": "+886-2-28933161",
+      "fax": "",
+      "email": "",
+      "months": "01,07,02,08,03,09,04,10,05,11,06,12",
+      "nlat": 25.12255,
+      "elong": 121.49538,
+      "official_site": "https://ncm.ddm.org.tw/",
+      "facebook": "https://www.facebook.com/ncm.ddm",
+      "ticket": "",
+      "remind": "農禪寺為清靜的佛教寺院，入寺遊客務必遵守入寺須知。",
+      "staytime": "",
+      "modified": "2025-05-03 14:35:40 +08:00",
+      "url": "https://www.travel.taipei/zh-tw/attraction/details/404",
+      "category": [
+        {
+          "id": 14,
+          "name": "宗教信仰"
+        },
+        {
+          "id": 15,
+          "name": "藝文館所"
+        }
+      ],
+      "target": [],
+      "service": [],
+      "friendly": [
+        {
+          "id": 392,
+          "name": "無障礙友善服務"
+        }
+      ],
+      "images": [
+        {
+          "src": "https://www.travel.taipei/image/492022",
+          "subject": "",
+          "ext": ".jpg"
+        },
+        {
+          "src": "https://www.travel.taipei/image/492023",
+          "subject": "",
+          "ext": ".jpg"
+        },
+        {
+          "src": "https://www.travel.taipei/image/65950",
+          "subject": "",
+          "ext": ".jpg"
+        },
+        {
+          "src": "https://www.travel.taipei/image/65951",
+          "subject": "",
+          "ext": ".jpg"
+        },
+        {
+          "src": "https://www.travel.taipei/image/65952",
+          "subject": "",
+          "ext": ".jpg"
+        },
+        {
+          "src": "https://www.travel.taipei/image/65955",
+          "subject": "",
+          "ext": ".jpg"
+        },
+        {
+          "src": "https://www.travel.taipei/image/65958",
+          "subject": "",
+          "ext": ".jpg"
+        },
+        {
+          "src": "https://www.travel.taipei/image/492014",
+          "subject": "",
+          "ext": ".jpg"
+        },
+        {
+          "src": "https://www.travel.taipei/image/492015",
+          "subject": "",
+          "ext": ".jpg"
+        },
+        {
+          "src": "https://www.travel.taipei/image/492016",
+          "subject": "",
+          "ext": ".jpg"
+        },
+        {
+          "src": "https://www.travel.taipei/image/492017",
+          "subject": "",
+          "ext": ".jpg"
+        },
+        {
+          "src": "https://www.travel.taipei/image/492018",
+          "subject": "",
+          "ext": ".jpg"
+        },
+        {
+          "src": "https://www.travel.taipei/image/492019",
+          "subject": "",
+          "ext": ".jpg"
+        },
+        {
+          "src": "https://www.travel.taipei/image/492020",
+          "subject": "",
+          "ext": ".jpg"
+        },
+        {
+          "src": "https://www.travel.taipei/image/492021",
+          "subject": "",
+          "ext": ".jpg"
+        }
+      ],
+      "files": [],
+      "links": [
+        {
+          "src": "https://ncm.ddm.org.tw/default-ncm/xchome?xsmsid=0K316649827104701077",
+          "subject": "預約參訪"
+        },
+        {
+          "src": "https://ncm.ddm.org.tw/default-ncm/xchome?xsmsid=0K316649383480509078",
+          "subject": "入寺須知"
+        }
+      ]
+    },
+    {
+      "id": 406,
+      "name": "140高地公園",
+      "name_zh": null,
+      "open_status": 1,
+      "introduction": "140高地公園面積5.6公頃，位於臺北市文山區萬美里境內，萬寧街北側，介於萬寧街與萬美街2段間的丘陵地，最高海拔為138公尺的枹子腳山位於萬寧街旁的140高地公園，在尚未有萬芳社區之前，該公園用地稱為抱仔腳，是個只有45戶人家居住的廣大丘陵地，如今，海拔138公尺的抱仔腳山下，山頂視野遼闊；93年間闢建了文山（木柵）80號公園（面積約2.2公頃），96年闢建了文山（木柵）30號公園（面積約3.4公頃），兩者倂稱「140高地公園」。\r\n\r\n公園登山口分位於萬寧街125號及225號旁，沿蜿蜒的木棧階梯往上，登上稜線後轉為碎石階梯步道，循稜線而行，林相豐富，沿途設有觀景平臺及涼亭，視野極佳，可俯瞰山下景觀，遙望101大樓與萬家燈火，可遠眺文山區山光水色，為觀星賞月的最佳地點。\r\n\r\n為營造永續的生態環境，在公園開闢時儘可能維持原有地貌，避免破壞動植物棲地，園內僅設置必要的設施及步道串聯周邊綠地，提供市民ㄧ處自然的運動與休憩場所。當地民眾在萬寧街23巷自費建造ㄧ個混凝土水池，利用原有電力系統，設置簡易過濾槽過濾池水，池深約有100公分，為維遊客安全及整體景觀，將原有池壁打除，改以石頭堆圈圍水池，已於96年3月完工，目前已成功吸引蛙類棲息，蛙鳴響亮，更顯清幽。本公園並設有全臺北市唯一的「山岳標示導覽圖」，可認識山岳並知名稱、高度。還有簡易的體健設施，運動器材，伸展椅等，在登山賞景之餘，也可在清幽的山中體驗伸展筋骨之樂。\r\n\r\n(資料來源：臺北市政府工務局公園路燈工程管理處)",
+      "open_time": "",
+      "zipcode": "116",
+      "distric": "文山區",
+      "address": "116 臺北市文山區萬寧街125號",
+      "tel": "+886-2-27839452",
+      "fax": "",
+      "email": "",
+      "months": "01,07,02,08,03,09,04,10,05,11,06,12",
+      "nlat": 25.00429,
+      "elong": 121.56661,
+      "official_site": "https://parks.taipei/parks/m2/pkl_parks_m2C.php?sid=147",
+      "facebook": "",
+      "ticket": "",
+      "remind": "",
+      "staytime": "",
+      "modified": "2025-05-03 14:26:28 +08:00",
+      "url": "https://www.travel.taipei/zh-tw/attraction/details/406",
+      "category": [
+        {
+          "id": 16,
+          "name": "戶外踏青"
+        }
+      ],
+      "target": [],
+      "service": [],
+      "friendly": [],
+      "images": [
+        {
+          "src": "https://www.travel.taipei/image/65988",
+          "subject": "",
+          "ext": ".jpg"
+        },
+        {
+          "src": "https://www.travel.taipei/image/65990",
+          "subject": "",
+          "ext": ".jpg"
+        },
+        {
+          "src": "https://www.travel.taipei/image/65972",
+          "subject": "",
+          "ext": ".jpg"
+        },
+        {
+          "src": "https://www.travel.taipei/image/65973",
+          "subject": "",
+          "ext": ".jpg"
+        },
+        {
+          "src": "https://www.travel.taipei/image/65976",
+          "subject": "",
+          "ext": ".jpg"
+        },
+        {
+          "src": "https://www.travel.taipei/image/65977",
+          "subject": "",
+          "ext": ".jpg"
+        },
+        {
+          "src": "https://www.travel.taipei/image/65978",
+          "subject": "",
+          "ext": ".jpg"
+        },
+        {
+          "src": "https://www.travel.taipei/image/65979",
+          "subject": "",
+          "ext": ".jpg"
+        },
+        {
+          "src": "https://www.travel.taipei/image/65980",
+          "subject": "",
+          "ext": ".jpg"
+        },
+        {
+          "src": "https://www.travel.taipei/image/65981",
+          "subject": "",
+          "ext": ".jpg"
+        },
+        {
+          "src": "https://www.travel.taipei/image/65982",
+          "subject": "",
+          "ext": ".jpg"
+        },
+        {
+          "src": "https://www.travel.taipei/image/65983",
+          "subject": "",
+          "ext": ".jpg"
+        },
+        {
+          "src": "https://www.travel.taipei/image/65984",
+          "subject": "",
+          "ext": ".jpg"
+        },
+        {
+          "src": "https://www.travel.taipei/image/65985",
+          "subject": "",
+          "ext": ".jpg"
+        },
+        {
+          "src": "https://www.travel.taipei/image/65987",
+          "subject": "",
+          "ext": ".jpg"
+        }
+      ],
+      "files": [],
+      "links": []
+    },
+    {
+      "id": 407,
+      "name": "福州山公園",
+      "name_zh": null,
+      "open_status": 1,
+      "introduction": "公園處於90年間接管福州山公園，並於93年度編列預算辦理地上物拆除，陸續拆除地上物後以保持原始風貌方式綠美化，並參考山友意見增建涼亭，與原有公園連成一氣，讓臺北市民又添新衣，多一處休閒最佳去處。\r\n\r\n公園位於辛亥路、臥龍街旁山坡地，面積約達172,488平方公尺，海拔約105公尺，原為福州山公墓，闢建成公園以來，規劃以朝向自然生態保育為主，廣植林木，林相完整，生態豐富，景色宜人、園內除必要之水土保持及防災設施外，其餘人工設施以最小化且易於管理維護為原則，設置登山步道，沿途蟲鳴鳥叫，空氣清新，並有設置涼亭可供休憩，可遠眺觀音山、大屯山，鳥瞰大安區市景，亦為觀賞101全貌之最佳地點，實為鬧中取靜之桃花源。植栽規劃以保存園區內自然風貌為原則，僅於登山步道入口、休憩平台及涼亭等處重點栽植具遮蔭、誘鳥引蝶、開花性喬木、灌木等，昔日之墓園，今日已成為登山客經常造訪之園地及生態教學的好去處。\r\n\r\n(資料來源：臺北市政府工務局 公園走透透網站)",
+      "open_time": "",
+      "zipcode": "106",
+      "distric": "大安區",
+      "address": "106 臺北市大安區辛亥路三段、興隆超市旁(福州山)",
+      "tel": "+886-2-27003830",
+      "fax": "",
+      "email": "",
+      "months": "01,07,02,08,03,09,04,10,05,11,06,12",
+      "nlat": 25.01601,
+      "elong": 121.55484,
+      "official_site": "https://parks.taipei/parks/m2/pkl_parks_m2C.php?sid=684",
+      "facebook": "",
+      "ticket": "",
+      "remind": "",
+      "staytime": "",
+      "modified": "2025-05-03 14:19:58 +08:00",
+      "url": "https://www.travel.taipei/zh-tw/attraction/details/407",
+      "category": [
+        {
+          "id": 16,
+          "name": "戶外踏青"
+        },
+        {
+          "id": 19,
+          "name": "親子共遊"
+        }
+      ],
+      "target": [],
+      "service": [],
+      "friendly": [],
+      "images": [],
+      "files": [],
+      "links": []
+    },
+    {
+      "id": 409,
+      "name": "遼寧公園",
+      "name_zh": null,
+      "open_status": 1,
+      "introduction": "遼寧公園四周為筆直高大的蒲葵，為公園增添些許南洋的風情；其內以花台來做地形變化，柔緩的小丘斜坡增添空間垂直韻律感。公園內設置兒童遊戲區，設有遊具、搖搖樂，提供幼童遊戲、四肢活動之遊戲場。園內主要植栽以歷史悠久生長茂密的榕樹為主，提供遮蔭之功能；另外觀葉之紫薇也圍繞園區，葉色之變化與樹皮之光澤，為公園的綠意中增添變化。\r\n\r\n生長在遼寧公園的受保護老樹目前預估樹齡約為30多歲，正值壯年的受保護老樹，具有地區人文及歷史代表性，位於公園出入口附近猶如公園裡的老招牌。\r\n\r\n公園內也有種類豐富的種植，例如榕樹、蒲葵、竹柏、樟樹、九芎、小葉南洋杉、變葉木、杜鵑、馬纓丹、黃金露華等植栽。\r\n\r\n公園設施一覽\r\n園景設施：花廊。\r\n休憩設施：園椅。\r\n遊樂設施：組合遊具、搖搖樂。\r\n運動設施：上肢牽引器。\r\n\r\n(資料來源：臺北市政府民政局)",
+      "open_time": "全天開放",
+      "zipcode": "104",
+      "distric": "中山區",
+      "address": "104 臺北市中山區遼寧街185巷口",
+      "tel": "+886-2-25031369#538",
+      "fax": "",
+      "email": "",
+      "months": "01,07,02,08,03,09,04,10,05,11,06,12",
+      "nlat": 25.05366,
+      "elong": 121.54224,
+      "official_site": "https://parks.taipei/parks/m2/pkl_parks_m2C.php?sid=464",
+      "facebook": "",
+      "ticket": "",
+      "remind": "",
+      "staytime": "",
+      "modified": "2025-05-03 14:14:48 +08:00",
+      "url": "https://www.travel.taipei/zh-tw/attraction/details/409",
+      "category": [
+        {
+          "id": 16,
+          "name": "戶外踏青"
+        },
+        {
+          "id": 19,
+          "name": "親子共遊"
+        }
+      ],
+      "target": [
+        {
+          "id": 61,
+          "name": "親子共學"
+        },
+        {
+          "id": 62,
+          "name": "校外教學"
+        }
+      ],
+      "service": [],
+      "friendly": [],
+      "images": [
+        {
+          "src": "https://www.travel.taipei/image/89274",
+          "subject": "",
+          "ext": ".jpg"
+        },
+        {
+          "src": "https://www.travel.taipei/image/89275",
+          "subject": "",
+          "ext": ".jpg"
+        },
+        {
+          "src": "https://www.travel.taipei/image/89271",
+          "subject": "",
+          "ext": ".jpg"
+        },
+        {
+          "src": "https://www.travel.taipei/image/89272",
+          "subject": "",
+          "ext": ".jpg"
+        },
+        {
+          "src": "https://www.travel.taipei/image/89273",
+          "subject": "",
+          "ext": ".jpg"
+        }
+      ],
+      "files": [],
+      "links": []
+    },
+    {
+      "id": 410,
+      "name": "瓶蓋工廠台北製造所",
+      "name_zh": null,
+      "open_status": 1,
+      "introduction": "瓶蓋工廠台北製造所是涵蓋職人手創、知識教育分享、展演及餐飲的複合式空間；在這裡不僅可以體驗各種手作課程，還可以逛市集、看展覽、欣賞音樂演出。\r\n\r\n此外，瓶蓋工廠台北製造所保留了日本昭和時代的建築特色，如檜木屋頂的倉庫、挑高的廠房以及天窗設計，並將六棟廠房空間打造成不同主題館，是老屋迷必訪的熱門景點。",
+      "open_time": "",
+      "zipcode": "115",
+      "distric": "南港區",
+      "address": "115 臺北市南港區南港路二段13號",
+      "tel": "+886-2-27859900",
+      "fax": "",
+      "email": "popoptaipei@popoptaipei.com",
+      "months": "01,07,02,08,03,09,04,10,05,11,06,12",
+      "nlat": 25.05364,
+      "elong": 121.60476,
+      "official_site": "https://www.popoptaipei.com/",
+      "facebook": "https://www.facebook.com/POPOPTAIPEI/",
+      "ticket": "",
+      "remind": "",
+      "staytime": "",
+      "modified": "2025-05-03 14:09:15 +08:00",
+      "url": "https://www.travel.taipei/zh-tw/attraction/details/410",
+      "category": [
+        {
+          "id": 13,
+          "name": "歷史建築"
+        },
+        {
+          "id": 15,
+          "name": "藝文館所"
+        },
+        {
+          "id": 19,
+          "name": "親子共遊"
+        },
+        {
+          "id": 25,
+          "name": "無障礙旅遊推薦景點"
+        }
+      ],
+      "target": [
+        {
+          "id": 61,
+          "name": "親子共學"
+        },
+        {
+          "id": 62,
+          "name": "校外教學"
+        }
+      ],
+      "service": [],
+      "friendly": [
+        {
+          "id": 392,
+          "name": "無障礙友善服務"
+        }
+      ],
+      "images": [
+        {
+          "src": "https://www.travel.taipei/image/207926",
+          "subject": "",
+          "ext": ".jpg"
+        },
+        {
+          "src": "https://www.travel.taipei/image/207927",
+          "subject": "",
+          "ext": ".jpg"
+        },
+        {
+          "src": "https://www.travel.taipei/image/207928",
+          "subject": "",
+          "ext": ".jpg"
+        },
+        {
+          "src": "https://www.travel.taipei/image/207929",
+          "subject": "",
+          "ext": ".jpg"
+        },
+        {
+          "src": "https://www.travel.taipei/image/207924",
+          "subject": "",
+          "ext": ".jpg"
+        },
+        {
+          "src": "https://www.travel.taipei/image/207925",
+          "subject": "",
+          "ext": ".jpg"
+        }
+      ],
+      "files": [],
+      "links": []
+    },
+    {
+      "id": 411,
+      "name": "敦安公園",
+      "name_zh": null,
+      "open_status": 1,
+      "introduction": "敦安公園成立於民國70年，並於民國90年改造。位於大安區敦煌里，公園面積2820平方公尺。\r\n\r\n敦安公園四周均為住宅區，並有正聲兒童才藝班及幼苗幼稚園，公園早晨有氧氣功及有氧韻律體操等晨間社團，下午則是鄰近幼稚園兒童使用率較高，敦煌里辦公處除睦鄰互助聯誼活動之外，並結合社區資源不定期在公園內辦理各項活動。\r\n\r\n公園中有氣派凜然的涼亭，使敦安公園中有畫龍點睛之妙。此外，公園小徑旁的石雕也讓公園充滿了古樸的意境。溜冰場及兒童遊戲區上茂密的大樹，為在此活動的居民提供最好的遮陰效果。如此舒適美麗的活動空間，讓公園在下午時分變為熱鬧非凡的遊憩、散步場所。\r\n\r\n休憩設施：涼亭。\r\n遊樂設施：搖搖樂、滑梯、鞦韆、攀登架。\r\n運動設施：高低槓、溜冰場。\r\n\r\n(資料來源：臺北市政府民政局)",
+      "open_time": "全天開放",
+      "zipcode": "106",
+      "distric": "大安區",
+      "address": "106 臺北市大安區信義路四段265巷12弄",
+      "tel": "+886-2-23511711#9302",
+      "fax": "",
+      "email": "",
+      "months": "01,07,02,08,03,09,04,10,05,11,06,12",
+      "nlat": 25.03449,
+      "elong": 121.55382,
+      "official_site": "https://parks.taipei/parks/m2/pkl_parks_m2C.php?sid=248",
+      "facebook": "",
+      "ticket": "",
+      "remind": "",
+      "staytime": "",
+      "modified": "2025-05-03 14:08:06 +08:00",
+      "url": "https://www.travel.taipei/zh-tw/attraction/details/411",
+      "category": [
+        {
+          "id": 16,
+          "name": "戶外踏青"
+        },
+        {
+          "id": 19,
+          "name": "親子共遊"
+        }
+      ],
+      "target": [],
+      "service": [],
+      "friendly": [],
+      "images": [
+        {
+          "src": "https://www.travel.taipei/image/66016",
+          "subject": "",
+          "ext": ".jpg"
+        },
+        {
+          "src": "https://www.travel.taipei/image/66017",
+          "subject": "",
+          "ext": ".jpg"
+        },
+        {
+          "src": "https://www.travel.taipei/image/66019",
+          "subject": "",
+          "ext": ".jpg"
+        },
+        {
+          "src": "https://www.travel.taipei/image/66020",
+          "subject": "",
+          "ext": ".jpg"
+        },
+        {
+          "src": "https://www.travel.taipei/image/66023",
+          "subject": "",
+          "ext": ".jpg"
+        },
+        {
+          "src": "https://www.travel.taipei/image/66024",
+          "subject": "",
+          "ext": ".jpg"
+        },
+        {
+          "src": "https://www.travel.taipei/image/66025",
+          "subject": "",
+          "ext": ".jpg"
+        },
+        {
+          "src": "https://www.travel.taipei/image/66027",
+          "subject": "",
+          "ext": ".jpg"
+        }
+      ],
+      "files": [],
+      "links": []
+    },
+    {
+      "id": 414,
+      "name": "陽明公園",
+      "name_zh": null,
+      "open_status": 1,
+      "introduction": "陽明公園位在臺北市的北邊，距離市區大概17公里；日據時代這裡遍地茅草，因此叫做草山。臺灣光復後，為了紀念王陽明先生，1950年時，將「草山」改為「陽明山」，並設立陽明山管理局來開闢陽明公園。\r\n&nbsp;\r\n\r\n只是公園都市計畫面積約107公頃，陽明山管理局在1977年改制後，就把公園業務，交給公園路燈工程管理處接管。\r\n&nbsp;\r\n\r\n這座屬於大屯山群區，海拔445公尺的公園，後有七星山，左有紗帽山，右近大屯山，遠望觀音山層巒疊岫；氣候溫暖、濕潤，而且夏季涼爽，是個絕佳的避暑勝地，也是臺灣唯一有死火山地勢、硫磺氣孔跟溫泉自然景觀的地方。\r\n&nbsp;\r\n\r\n公園內種滿了梅、櫻、桃、李、杜鵑、茶花等各種花卉，每年春天櫻花盛開時，總吸引很多人上山賞花；加上一座由各式當季花卉組成的花鐘；如果您來到這，別忘了跟陽明山最具代表性的花鐘拍照留念。\r\n&nbsp;\r\n\r\n來陽明公園，可以春天賞花，夏天避暑，秋天觀賞芒花跟楓葉、冬天泡溫泉；陽明山四季不同的美景、樂趣，就等著您來挖寶！",
+      "open_time": "全天開放",
+      "zipcode": "112",
+      "distric": "北投區",
+      "address": "112 臺北市北投區湖山路二段26號",
+      "tel": "+886-2-28616361",
+      "fax": "",
+      "email": "",
+      "months": "01,07,02,08,03,09,04,10,05,11,06,12",
+      "nlat": 25.15921,
+      "elong": 121.54013,
+      "official_site": "https://parks.gov.taipei/parks/m2/pkl_parks_m2C.php?sid=497",
+      "facebook": "",
+      "ticket": "",
+      "remind": "",
+      "staytime": "",
+      "modified": "2025-05-03 13:59:15 +08:00",
+      "url": "https://www.travel.taipei/zh-tw/attraction/details/414",
+      "category": [
+        {
+          "id": 16,
+          "name": "戶外踏青"
+        },
+        {
+          "id": 19,
+          "name": "親子共遊"
+        }
+      ],
+      "target": [
+        {
+          "id": 61,
+          "name": "親子共學"
+        },
+        {
+          "id": 62,
+          "name": "校外教學"
+        },
+        {
+          "id": 66,
+          "name": "健行族"
+        }
+      ],
+      "service": [],
+      "friendly": [
+        {
+          "id": 392,
+          "name": "無障礙友善服務"
+        }
+      ],
+      "images": [
+        {
+          "src": "https://www.travel.taipei/image/182979",
+          "subject": "",
+          "ext": ".jpg"
+        },
+        {
+          "src": "https://www.travel.taipei/image/182980",
+          "subject": "",
+          "ext": ".jpg"
+        },
+        {
+          "src": "https://www.travel.taipei/image/182982",
+          "subject": "",
+          "ext": ".jpg"
+        },
+        {
+          "src": "https://www.travel.taipei/image/66035",
+          "subject": "",
+          "ext": ".jpg"
+        },
+        {
+          "src": "https://www.travel.taipei/image/182973",
+          "subject": "",
+          "ext": ".jpg"
+        },
+        {
+          "src": "https://www.travel.taipei/image/182974",
+          "subject": "",
+          "ext": ".jpg"
+        },
+        {
+          "src": "https://www.travel.taipei/image/182975",
+          "subject": "",
+          "ext": ".jpg"
+        },
+        {
+          "src": "https://www.travel.taipei/image/182976",
+          "subject": "",
+          "ext": ".jpg"
+        },
+        {
+          "src": "https://www.travel.taipei/image/182977",
+          "subject": "",
+          "ext": ".jpg"
+        },
+        {
+          "src": "https://www.travel.taipei/image/182978",
+          "subject": "",
+          "ext": ".jpg"
+        }
+      ],
+      "files": [],
+      "links": []
+    },
+    {
+      "id": 416,
+      "name": "三重世貿公園",
+      "name_zh": null,
+      "open_status": 1,
+      "introduction": "為提供市民更多的停車空間，停管處新建南港區世貿公園地下停車場，並於民國100年簡易綠美化，公園面積約1.2公頃，位於南港區經貿二路106巷，東側為南港展覽館、西側為南港軟體園區 (第一、二期園區)、南側為南港軟體園區(第三期園區)、北側為中國信託企業總部大樓。\r\n\r\n為了提供更優質之休憩場域，中國信託商業銀行股份有限公司秉持服務社會的精神，於102年投入經費捐建認養三重世貿公園，將原有簡易綠美化之草坪，改造成以樹木開花編導季節色彩之公園，在春、夏、秋季點綴出夢幻的花色，分別以青春粉嫩、朱夏金澄及白秋褐紅，訴說著季節的更迭。\r\n\r\n園區內有多樣化之景觀配置，特別設置噴霧系統，營造大多數的蕨類喜好陰涼而溼潤的環境，種植多樣蕨類─蕨類谷地園；清淺水池旁種植水柳、穗花棋盤腳等水生植物；並架設高架棧道提供遊園民眾閱讀林相環境；旱地噴泉廣場，更是小朋友們流連忘返之地；夜晚配置高、低景觀燈，點亮行人空間，越夜越美麗。\r\n\r\n公園內種植樟樹、苦楝、魚木、楓香、烏桕、青楓、杜英、鳳凰花、盾柱木、阿勃勒、光臘樹、山櫻花、昭和櫻、八重櫻等多種喬木，散發出多量的芬多精，彷彿置身於森林浴中，提供遊園民眾&ldquo;森呼吸&rdquo;。\r\n\r\n繁忙緊湊生活的步調下，不論您是附近上班族，或是特別來此一遊的民眾，都可得到視覺及聽覺心靈享受，保證不虛此行喔！\r\n\r\n(資料來源：公園走透透網站)",
+      "open_time": "",
+      "zipcode": "115",
+      "distric": "南港區",
+      "address": "115 臺北市南港區經貿二路106巷",
+      "tel": "+886-2-27833685",
+      "fax": "",
+      "email": "",
+      "months": "01,07,02,08,03,09,04,10,05,11,06,12",
+      "nlat": 25.05791,
+      "elong": 121.61528,
+      "official_site": "https://parks.taipei/parks/m2/pkl_parks_m2C.php?sid=539",
+      "facebook": "",
+      "ticket": "",
+      "remind": "",
+      "staytime": "",
+      "modified": "2025-05-03 13:51:25 +08:00",
+      "url": "https://www.travel.taipei/zh-tw/attraction/details/416",
+      "category": [
+        {
+          "id": 16,
+          "name": "戶外踏青"
+        },
+        {
+          "id": 19,
+          "name": "親子共遊"
+        }
+      ],
+      "target": [
+        {
+          "id": 61,
+          "name": "親子共學"
+        },
+        {
+          "id": 62,
+          "name": "校外教學"
+        }
+      ],
+      "service": [],
+      "friendly": [],
+      "images": [
+        {
+          "src": "https://www.travel.taipei/image/66046",
+          "subject": "",
+          "ext": ".jpg"
+        },
+        {
+          "src": "https://www.travel.taipei/image/66047",
+          "subject": "",
+          "ext": ".jpg"
+        },
+        {
+          "src": "https://www.travel.taipei/image/66048",
+          "subject": "",
+          "ext": ".jpg"
+        },
+        {
+          "src": "https://www.travel.taipei/image/66051",
+          "subject": "",
+          "ext": ".jpg"
+        },
+        {
+          "src": "https://www.travel.taipei/image/66053",
+          "subject": "",
+          "ext": ".jpg"
+        },
+        {
+          "src": "https://www.travel.taipei/image/66045",
+          "subject": "",
+          "ext": ".jpg"
+        }
+      ],
+      "files": [],
+      "links": []
+    },
+    {
+      "id": 417,
+      "name": "捷運北門站_台北鐵道局",
+      "name_zh": null,
+      "open_status": 1,
+      "introduction": "捷運北門站為捷運松山線，位於塔城街，為一地下4層車站，長約171公尺、寬約32公尺，開挖深度約32公尺，設有3個出入口、2座通風井及2座無障礙電梯。\r\n\r\n捷運松山線於設計時已將廣義的公共藝術，經由建築及景觀設計，植入代表地區文化及環境特色的藝術理念，透過色系、主題及副主題，創造出各種不同的風貌，呈現在大眾眼前。\r\n\r\n【北門站】設計理念－承恩‧啟願－擷取人文精神意涵，呼應歷史軌跡。\r\n\r\n(資料來源：臺北市政府捷運工程局中區工程處)",
+      "open_time": "",
+      "zipcode": "103",
+      "distric": "大同區",
+      "address": "103 臺北市大同區塔城街10號",
+      "tel": "+886-2-25363001",
+      "fax": "",
+      "email": "",
+      "months": "01,07,02,08,03,09,04,10,05,11,06,12",
+      "nlat": 25.04954,
+      "elong": 121.51018,
+      "official_site": "",
+      "facebook": "",
+      "ticket": "",
+      "remind": "",
+      "staytime": "",
+      "modified": "2025-05-03 13:45:53 +08:00",
+      "url": "https://www.travel.taipei/zh-tw/attraction/details/417",
+      "category": [
+        {
+          "id": 18,
+          "name": "公共藝術"
+        }
+      ],
+      "target": [
+        {
+          "id": 61,
+          "name": "親子共學"
+        }
+      ],
+      "service": [],
+      "friendly": [],
+      "images": [
+        {
+          "src": "https://www.travel.taipei/image/89269",
+          "subject": "",
+          "ext": ".jpg"
+        },
+        {
+          "src": "https://www.travel.taipei/image/89270",
+          "subject": "",
+          "ext": ".jpg"
+        },
+        {
+          "src": "https://www.travel.taipei/image/89265",
+          "subject": "",
+          "ext": ".jpg"
+        },
+        {
+          "src": "https://www.travel.taipei/image/89266",
+          "subject": "",
+          "ext": ".jpg"
+        },
+        {
+          "src": "https://www.travel.taipei/image/89267",
+          "subject": "",
+          "ext": ".jpg"
+        },
+        {
+          "src": "https://www.travel.taipei/image/89268",
+          "subject": "",
+          "ext": ".jpg"
+        }
+      ],
+      "files": [],
+      "links": []
+    },
+    {
+      "id": 419,
+      "name": "李臨秋故居",
+      "name_zh": null,
+      "open_status": 1,
+      "introduction": "李臨秋先生為「望春風」、「四季紅」等多首臺灣著名歌謠的作詞者，係臺灣流行歌謠史上重要代表人物，其創作亦為珍貴之無形文化資產。本建物作為名人故居當可展現其歷史及藝術價值。\r\n\r\n(資料來源：臺北市政府文化局)",
+      "open_time": "",
+      "zipcode": "103",
+      "distric": "大同區",
+      "address": "103 臺北市大同區西寧北路86巷4號",
+      "tel": "+886-9-1063-2286",
+      "fax": "",
+      "email": "",
+      "months": "01,07,02,08,03,09,04,10,05,11,06,12",
+      "nlat": 25.05518,
+      "elong": 121.50871,
+      "official_site": "",
+      "facebook": "https://www.facebook.com/people/%E8%87%A8%E7%A7%8B%E5%B1%85%E6%9D%8E%E8%87%A8%E7%A7%8B%E6%95%85%E5%B1%85/61561355090447/",
+      "ticket": "",
+      "remind": "十人以上之團體參觀須提前一周預約，詳情請上FB粉絲專頁填寫表單申請。",
+      "staytime": "",
+      "modified": "2025-05-03 13:31:29 +08:00",
+      "url": "https://www.travel.taipei/zh-tw/attraction/details/419",
+      "category": [
+        {
+          "id": 13,
+          "name": "歷史建築"
+        },
+        {
+          "id": 15,
+          "name": "藝文館所"
+        }
+      ],
+      "target": [],
+      "service": [],
+      "friendly": [
+        {
+          "id": 392,
+          "name": "無障礙友善服務"
+        }
+      ],
+      "images": [],
+      "files": [],
+      "links": []
+    },
+    {
+      "id": 420,
+      "name": "臺北迪化街郵局",
+      "name_zh": null,
+      "open_status": 1,
+      "introduction": "中華郵政臺北迪化街郵局(38號)位於年貨迪化街中。迪化街為大稻埕商圈重要的市街，大部分建築為被列為歷史建築，並刻意留存，因而成為臺北市保留最完整的老街。",
+      "open_time": "郵務:08:30-17:30 \r\n儲匯:08:30-17:00",
+      "zipcode": "103",
+      "distric": "大同區",
+      "address": "103 臺北市大同區迪化街一段38號",
+      "tel": "+886-2-25560519",
+      "fax": "",
+      "email": "",
+      "months": "01,07,02,08,03,09,04,10,05,11,06,12",
+      "nlat": 25.05479,
+      "elong": 121.50999,
+      "official_site": "https://www.post.gov.tw/post/internet/I_location/index_post.jsp?prsb_no=000110-1",
+      "facebook": "",
+      "ticket": "",
+      "remind": "",
+      "staytime": "",
+      "modified": "2025-05-03 13:28:00 +08:00",
+      "url": "https://www.travel.taipei/zh-tw/attraction/details/420",
+      "category": [
+        {
+          "id": 13,
+          "name": "歷史建築"
+        }
+      ],
+      "target": [
+        {
+          "id": 61,
+          "name": "親子共學"
+        },
+        {
+          "id": 62,
+          "name": "校外教學"
+        }
+      ],
+      "service": [],
+      "friendly": [],
+      "images": [
+        {
+          "src": "https://www.travel.taipei/image/89256",
+          "subject": "",
+          "ext": ".jpg"
+        },
+        {
+          "src": "https://www.travel.taipei/image/89257",
+          "subject": "",
+          "ext": ".jpg"
+        },
+        {
+          "src": "https://www.travel.taipei/image/89258",
+          "subject": "",
+          "ext": ".png"
+        },
+        {
+          "src": "https://www.travel.taipei/image/89259",
+          "subject": "",
+          "ext": ".jpg"
+        },
+        {
+          "src": "https://www.travel.taipei/image/89260",
+          "subject": "",
+          "ext": ".jpg"
+        }
+      ],
+      "files": [],
+      "links": []
+    },
+    {
+      "id": 1534,
+      "name": "西昌街-青草巷",
+      "name_zh": null,
+      "open_status": 1,
+      "introduction": "走在臺北龍山寺附近的西昌街上，會聞到一股濃濃的青草香味，那甘醇的清香飄來，就知道這裡是臺北著名的青草巷。在224巷中，有10多家藥草店聚集，各式中藥青草材料琳瑯滿目，據說艋舺開墾之初，當時流行疾病相當多，但是有證照的中醫卻極少，青草藥店就成為民間診療的主要機構，大家都是喝青草熬成的湯汁來治病，許多的古傳偏方，都隱藏在其中，當時還被人稱為「救命街」。\r\n\r\n後來因為龍山寺取消藥籤和健保的實施，青草產品轉型成為自然養生的食品。這裡的草藥有100多種，都是臺灣所產的道地草藥，由南部運上來，經過乾燥處理。而著名的青草茶，是炎炎夏日的退火聖品，許多人會來這買幾包，自行回家烹煮。在臺北市政府的規劃下，青草巷和龍山寺比鄰的廣州街209巷，種植有蘆薈、紅川七、虎耳、薰衣草等青草藥的活體樣本，設為藥用植物園區，也讓這裡成為戶外教學的好場所。",
+      "open_time": "",
+      "zipcode": "108",
+      "distric": "萬華區",
+      "address": "108 臺北市萬華區西昌街224巷",
+      "tel": "+886-2-27208889",
+      "fax": "",
+      "email": "",
+      "months": "01,07,02,08,03,09,04,10,05,11,06,12",
+      "nlat": 25.036936088627876,
+      "elong": 121.50026097893715,
+      "official_site": "",
+      "facebook": "",
+      "ticket": "",
+      "remind": "",
+      "staytime": "",
+      "modified": "2025-05-03 13:01:02 +08:00",
+      "url": "https://www.travel.taipei/zh-tw/attraction/details/1534",
+      "category": [
+        {
+          "id": 24,
+          "name": "主題商街"
+        }
+      ],
+      "target": [],
+      "service": [],
+      "friendly": [],
+      "images": [
+        {
+          "src": "https://www.travel.taipei/image/66161",
+          "subject": "",
+          "ext": ".jpg"
+        },
+        {
+          "src": "https://www.travel.taipei/image/66153",
+          "subject": "",
+          "ext": ".jpg"
+        },
+        {
+          "src": "https://www.travel.taipei/image/66154",
+          "subject": "",
+          "ext": ".jpg"
+        }
+      ],
+      "files": [],
+      "links": []
+    },
+    {
+      "id": 1539,
+      "name": "慈音山莊休閒農場",
+      "name_zh": null,
+      "open_status": 1,
+      "introduction": "橘黃色的金針花花朵，朵朵盛開，不用遠赴花蓮也能看到，在台北木柵山區也可看到隱藏版金黃花海唷！每年9月到10月中旬是金針花盛開期。秋天感受金黃花魅力正是時候！素有一日美人之稱的金針花，姿態萬千，黃色格外亮眼閃耀！色彩鮮豔、充滿活力的金針花，每年一到8、9月就會盛開綻放，其景之美，總讓許多民眾不辭辛苦走訪一趟，感受滿山金色花海的美景盛況。\r\n\r\n能看到一大片金針花海，是一種幸福喔！金針花的別名又稱為「忘憂草」，來到這裡，看著滿山遍野的金黃色花海，吹著徐徐微風，感覺上煩惱跟憂愁真的都消失一般。\r\n\r\n金針花小百科：\r\n金針花古稱為萱草，屬百合科，形似喇叭狀，朝開暮謝，因有「一日百合」、「一日美人」之稱。\r\n\r\n原生種花分橙、黃二色，近年來已有改良，色彩亦繽紛多彩。金針花自古即諭為母親之花，具有秀外慧中、堅忍之意涵。金針菜屬涼性食物，對體質燥熱性者，適量實用有清涼退火作用，但對於涼冷性之體質者，宜限量淺嚐或以薑和麻油烹調實用為宜。",
+      "open_time": "開放時間：07:00-19:00 ，以店家公告為準",
+      "zipcode": "116",
+      "distric": "文山區",
+      "address": "116 臺北市文山區老泉里老泉街26巷11之2號",
+      "tel": "+886-2-29375256",
+      "fax": "",
+      "email": "",
+      "months": "01,07,02,08,03,09,04,10,05,11,06,12",
+      "nlat": 24.966300643849507,
+      "elong": 121.5662795305252,
+      "official_site": "",
+      "facebook": "https://www.facebook.com/%E6%85%88%E9%9F%B3%E5%B1%B1%E8%8E%8A%E6%99%AF%E8%A7%80%E9%A4%90%E5%BB%B3-102575277804218/",
+      "ticket": "免費參觀",
+      "remind": "*負責慈音山莊的企業屬於一貫道信仰，園區內餐廳皆以素食料理為主。",
+      "staytime": "",
+      "modified": "2025-05-03 12:50:41 +08:00",
+      "url": "https://www.travel.taipei/zh-tw/attraction/details/1539",
+      "category": [
+        {
+          "id": 16,
+          "name": "戶外踏青"
+        },
+        {
+          "id": 19,
+          "name": "親子共遊"
+        }
+      ],
+      "target": [],
+      "service": [],
+      "friendly": [],
+      "images": [
+        {
+          "src": "https://www.travel.taipei/image/373942",
+          "subject": "",
+          "ext": ".jpg"
+        },
+        {
+          "src": "https://www.travel.taipei/image/373944",
+          "subject": "",
+          "ext": ".jpg"
+        },
+        {
+          "src": "https://www.travel.taipei/image/373945",
+          "subject": "",
+          "ext": ".jpg"
+        },
+        {
+          "src": "https://www.travel.taipei/image/373946",
+          "subject": "",
+          "ext": ".jpg"
+        },
+        {
+          "src": "https://www.travel.taipei/image/373947",
+          "subject": "",
+          "ext": ".jpg"
+        },
+        {
+          "src": "https://www.travel.taipei/image/373948",
+          "subject": "",
+          "ext": ".jpg"
+        },
+        {
+          "src": "https://www.travel.taipei/image/373949",
+          "subject": "",
+          "ext": ".jpg"
+        },
+        {
+          "src": "https://www.travel.taipei/image/373940",
+          "subject": "",
+          "ext": ".jpg"
+        },
+        {
+          "src": "https://www.travel.taipei/image/373941",
+          "subject": "",
+          "ext": ".jpg"
+        }
+      ],
+      "files": [],
+      "links": []
+    },
+    {
+      "id": 1540,
+      "name": "五分埔-成衣街",
+      "name_zh": null,
+      "open_status": 1,
+      "introduction": "何處是臺北成衣批發的中心，相信每人心中的第一個反應都是「五分埔」。有數百家批發店，聚集於松山火車站附近。其命名之由來在清朝時，五分埔是臺灣原住民平埔族活動的範圍，而後由何、周、沈、杜、李5戶人家，向平埔族人買下這塊地開墾，並以五分埔為庄名。\r\n\r\n臺灣半個世紀來的經濟發展，從貧困到不分日夜工作至富裕，就如同五分埔的發展史。中南部北上謀生的民眾，群聚於五分埔，將外銷成衣餘下的零碎或滯銷布料，簡單加工接綴成內衣褲、童裝或粗製的工作服，供路邊攤及零售店販賣，逐漸發展打響五分埔的名號。現在，數百家的成衣業者在此聚集，貨源來自全臺，甚至遠從港、泰、韓、新加坡等地區進口來臺。價廉的服飾吸引小盤商來批發、零售，因款式眾多、剪裁流行，不少年輕族群也前來血拼，隨個人任意搭配，創造引人目光的時尚風格。\r\n\r\n當購物慾望出現，卻預算不足或不想荷包大失血時，最適合的地方就是五分埔，值得一提的是，殺價也是這裡常見的購物現象，與老闆的價碼拉鋸戰，更添採買的快感！",
+      "open_time": "週一到週六：11:00~隔日凌晨00:00 週日：11:00~23:00 (依商圈各店情況不同)",
+      "zipcode": "110",
+      "distric": "信義區",
+      "address": "110 臺北市信義區五分埔商圈",
+      "tel": "+886-2-27641381",
+      "fax": "",
+      "email": "",
+      "months": "01,07,02,08,03,09,04,10,05,11,06,12",
+      "nlat": 25.046664607264,
+      "elong": 121.57896839082241,
+      "official_site": "",
+      "facebook": "",
+      "ticket": "",
+      "remind": "",
+      "staytime": "",
+      "modified": "2025-05-03 12:47:34 +08:00",
+      "url": "https://www.travel.taipei/zh-tw/attraction/details/1540",
+      "category": [
+        {
+          "id": 24,
+          "name": "主題商街"
+        }
+      ],
+      "target": [],
+      "service": [],
+      "friendly": [],
+      "images": [
+        {
+          "src": "https://www.travel.taipei/image/179251",
+          "subject": "",
+          "ext": ".jpg"
+        },
+        {
+          "src": "https://www.travel.taipei/image/179252",
+          "subject": "",
+          "ext": ".jpg"
+        },
+        {
+          "src": "https://www.travel.taipei/image/179253",
+          "subject": "",
+          "ext": ".jpg"
+        },
+        {
+          "src": "https://www.travel.taipei/image/179255",
+          "subject": "",
+          "ext": ".jpg"
+        },
+        {
+          "src": "https://www.travel.taipei/image/179256",
+          "subject": "",
+          "ext": ".jpg"
+        },
+        {
+          "src": "https://www.travel.taipei/image/179247",
+          "subject": "",
+          "ext": ".jpg"
+        },
+        {
+          "src": "https://www.travel.taipei/image/179248",
+          "subject": "",
+          "ext": ".jpg"
+        },
+        {
+          "src": "https://www.travel.taipei/image/179249",
+          "subject": "",
+          "ext": ".jpg"
+        },
+        {
+          "src": "https://www.travel.taipei/image/179250",
+          "subject": "",
+          "ext": ".jpg"
+        }
+      ],
+      "files": [],
+      "links": []
+    },
+    {
+      "id": 1541,
+      "name": "迪化街年貨大街",
+      "name_zh": null,
+      "open_status": 1,
+      "introduction": "迪化街位於大稻埕地區，是臺北傳統市場文化的縮影，也是臺灣商業歷史的重要地標。這條街道以南北乾貨、中藥材、布匹與茶葉的批發零售聞名，至今仍保留著傳統市場的熱鬧與人情味。 &nbsp;\r\n\r\n迪化街的建築風格以巴洛克式為主，多數建於清末及日治時期，巧妙地將歐洲華麗設計融入臺灣當地建材，展現獨特的東西合璧美感。街道兩旁的紅磚建築上布滿細緻雕花、優雅拱門與繁複裝飾，讓人彷彿置身於百年前的繁榮市集。 &nbsp;\r\n\r\n農曆新年期間，迪化街更搖身一變成為「年貨大街」。商家沿街設攤，售賣年節必需品，包括糖果零食、伴手禮及年菜食材。紅燈籠高掛，街道充滿喜慶氛圍，熱鬧的叫賣聲與熙來攘往的人群交織成充滿臺灣味的過年場景。 &nbsp;\r\n\r\n即便平日，迪化街仍是吸引人的旅遊景點。傳統建築中穿插著別出心裁的文創小店和咖啡館，成為年輕人流連的潮流熱點。這裡不僅提供古早味的商品與美食，更成為結合古今中外的文化交流平台。 &nbsp;\r\n\r\n無論是為了探索歷史建築，體驗在地市集，還是拍下絕美照片，迪化街都會帶給你豐富多元的感官享受，是臺北旅行的必訪之地！",
+      "open_time": "11:00~22:00  (詳細營業時間以各店家公告為主)",
+      "zipcode": "103",
+      "distric": "大同區",
+      "address": "103 臺北市大同區迪化街一段",
+      "tel": "+886-935-113-256",
+      "fax": "",
+      "email": "",
+      "months": "01,02,12",
+      "nlat": 25.05491,
+      "elong": 121.51032,
+      "official_site": "",
+      "facebook": "https://www.facebook.com/DihuaHerbalStreet/",
+      "ticket": "",
+      "remind": "",
+      "staytime": "",
+      "modified": "2025-05-03 12:41:38 +08:00",
+      "url": "https://www.travel.taipei/zh-tw/attraction/details/1541",
+      "category": [
+        {
+          "id": 24,
+          "name": "主題商街"
+        }
+      ],
+      "target": [],
+      "service": [],
+      "friendly": [],
+      "images": [
+        {
+          "src": "https://www.travel.taipei/image/182533",
+          "subject": "",
+          "ext": ".jpg"
+        },
+        {
+          "src": "https://www.travel.taipei/image/491953",
+          "subject": "",
+          "ext": ".jpg"
+        },
+        {
+          "src": "https://www.travel.taipei/image/491954",
+          "subject": "",
+          "ext": ".jpg"
+        },
+        {
+          "src": "https://www.travel.taipei/image/491955",
+          "subject": "",
+          "ext": ".jpg"
+        },
+        {
+          "src": "https://www.travel.taipei/image/491956",
+          "subject": "",
+          "ext": ".jpg"
+        },
+        {
+          "src": "https://www.travel.taipei/image/491957",
+          "subject": "",
+          "ext": ".jpg"
+        },
+        {
+          "src": "https://www.travel.taipei/image/491958",
+          "subject": "",
+          "ext": ".jpg"
+        },
+        {
+          "src": "https://www.travel.taipei/image/491959",
+          "subject": "",
+          "ext": ".jpg"
+        },
+        {
+          "src": "https://www.travel.taipei/image/491960",
+          "subject": "",
+          "ext": ".jpg"
+        },
+        {
+          "src": "https://www.travel.taipei/image/491961",
+          "subject": "",
+          "ext": ".jpg"
+        },
+        {
+          "src": "https://www.travel.taipei/image/491962",
+          "subject": "",
+          "ext": ".png"
+        },
+        {
+          "src": "https://www.travel.taipei/image/182530",
+          "subject": "",
+          "ext": ".jpg"
+        }
+      ],
+      "files": [],
+      "links": []
+    },
+    {
+      "id": 1545,
+      "name": "文昌街_家具街",
+      "name_zh": null,
+      "open_status": 1,
+      "introduction": "文昌街位處信義路及臨江街傳統市場之中心，是臺北著名的家具街。早期這裡多半是木材、五金、水泥等裝潢建材行，家具行寥寥無幾，有些家具行還會在門口敲敲打打，現場釘製沙發販售。後來由於大安森林公園的違建拆除，鄰近的家具業者紛紛遷徙至此，才漸漸形成今日有百餘間家具行的特殊街景，家具街的稱號也由此產生。\r\n\r\n如今這條家具街在市政府的規劃下，有著傳統街道及現代裝潢的交錯感，呈現出獨特的人文、經濟背景，同時兼顧休閒與購物的需求。這裡的家具相當多元，無論是歐式、中式、流行、仿古，從大型家具到迷你家飾，應有盡有，想找到適合自己個性的創意家具，來這裡準沒錯。",
+      "open_time": "開放空間",
+      "zipcode": "106",
+      "distric": "大安區",
+      "address": "106 臺北市大安區文昌街171~311、154~274號",
+      "tel": "+886-2-27074529",
+      "fax": "",
+      "email": "taipei.furniture@gmail.com",
+      "months": "01,07,02,08,03,09,04,10,05,11,06,12",
+      "nlat": 25.0322,
+      "elong": 121.55647,
+      "official_site": "https://wf-tpe.weebly.com/?fbclid=IwAR2zWbrmGGbDDlG0Try9dzTvOqNoiOoWI6oPpffqc8PR86t94I1EMv2cLlU",
+      "facebook": "https://www.facebook.com/taipei.furniture/",
+      "ticket": "",
+      "remind": "",
+      "staytime": "",
+      "modified": "2025-05-03 12:35:54 +08:00",
+      "url": "https://www.travel.taipei/zh-tw/attraction/details/1545",
+      "category": [
+        {
+          "id": 24,
+          "name": "主題商街"
+        }
+      ],
+      "target": [],
+      "service": [],
+      "friendly": [],
+      "images": [
+        {
+          "src": "https://www.travel.taipei/image/181687",
+          "subject": "",
+          "ext": ".jpg"
+        },
+        {
+          "src": "https://www.travel.taipei/image/181688",
+          "subject": "",
+          "ext": ".jpg"
+        },
+        {
+          "src": "https://www.travel.taipei/image/181689",
+          "subject": "",
+          "ext": ".jpg"
+        },
+        {
+          "src": "https://www.travel.taipei/image/181690",
+          "subject": "",
+          "ext": ".jpg"
+        },
+        {
+          "src": "https://www.travel.taipei/image/181693",
+          "subject": "",
+          "ext": ".jpg"
+        },
+        {
+          "src": "https://www.travel.taipei/image/181685",
+          "subject": "",
+          "ext": ".jpg"
+        },
+        {
+          "src": "https://www.travel.taipei/image/181686",
+          "subject": "",
+          "ext": ".jpg"
+        }
+      ],
+      "files": [],
+      "links": []
+    },
+    {
+      "id": 1547,
+      "name": "和平西路三段_鳥店街",
+      "name_zh": null,
+      "open_status": 1,
+      "introduction": "鳥店街位於臺北市和平西路3段，由捷運龍山寺站出來，走幾分鐘即可到達，離龍山寺地下街商圈、大理街徒步區都很近。\r\n\r\n這裡是結合了傳統的特色產業，有一股生氣蓬勃的景象，知名店家繁多，是愛鳥人士購鳥及添購用品的必訪之地。\r\n\r\n鳥店街除了賣各種鳥，也有賣鳥飼料和各種養鳥器具，因為產品多樣豐富，還有觀光的特色，許多國外觀光客專程來此，就是為了買東方味的鳥籠，別處買不到！就算不想花錢，只要你來，也有成千上萬的鳥兒，嘰嘰喳喳地在等著你。",
+      "open_time": "一般店家營業約10:00~22:00",
+      "zipcode": "108",
+      "distric": "萬華區",
+      "address": "108 臺北市萬華區和平西路三段",
+      "tel": "+886-2-23064468",
+      "fax": "",
+      "email": "",
+      "months": "01,07,02,08,03,09,04,10,05,11,06,12",
+      "nlat": 25.03484,
+      "elong": 121.50367,
+      "official_site": "",
+      "facebook": "",
+      "ticket": "",
+      "remind": "",
+      "staytime": "",
+      "modified": "2025-05-03 12:30:07 +08:00",
+      "url": "https://www.travel.taipei/zh-tw/attraction/details/1547",
+      "category": [
+        {
+          "id": 24,
+          "name": "主題商街"
+        }
+      ],
+      "target": [],
+      "service": [],
+      "friendly": [],
+      "images": [
+        {
+          "src": "https://www.travel.taipei/image/98399",
+          "subject": "",
+          "ext": ".jpg"
+        },
+        {
+          "src": "https://www.travel.taipei/image/98400",
+          "subject": "",
+          "ext": ".jpg"
+        },
+        {
+          "src": "https://www.travel.taipei/image/98396",
+          "subject": "",
+          "ext": ".jpg"
+        },
+        {
+          "src": "https://www.travel.taipei/image/98397",
+          "subject": "",
+          "ext": ".jpg"
+        },
+        {
+          "src": "https://www.travel.taipei/image/98398",
+          "subject": "",
+          "ext": ".jpg"
+        }
+      ],
+      "files": [],
+      "links": []
+    },
+    {
+      "id": 1550,
+      "name": "西園路_佛具街",
+      "name_zh": null,
+      "open_status": 1,
+      "introduction": "遙想臺灣早期，福建閩南人渡過臺灣海峽來此拓墾，離鄉背井，面對的是未知陌生且荊棘遍佈的新世界，唯一的精神依賴就是家鄉祖宗與眾神。移民者以家鄉的信仰儀式，購買佛像來將自己心中的神祇具體化，讓龍山寺一旁的西園路1段，開啟了臺灣佛像雕刻的發展史。從龍山寺旁的廣州街口到桂林街口，短短的西園路1段是全臺灣最有名的佛具街，兩側總共有20家佛具店，其中還有一家早從1895年即設立的百年老字號，還有許多家也是數代相傳的老店。\r\n\r\n龍山寺是西園路佛像雕刻業聚集的重要助力，隨著民生逐漸富裕，對神明更加虔誠信仰，寺廟不斷增加，使得請神明回家供奉越見普遍，這些因素造就了佛具街的聚集效應。除了神像外，其他相關商品如神桌、爐台與爐燈等也是佛具店中不可缺少的物品，共同寫下西園街佛具最燦爛的一頁。",
+      "open_time": "開放空間",
+      "zipcode": "108",
+      "distric": "萬華區",
+      "address": "108 臺北市萬華區西園路一段(廣州街口到桂林街口)",
+      "tel": "+886-2-23064468",
+      "fax": "",
+      "email": "",
+      "months": "01,07,02,08,03,09,04,10,05,11,06,12",
+      "nlat": 25.03797,
+      "elong": 121.49972,
+      "official_site": "",
+      "facebook": "",
+      "ticket": "",
+      "remind": "",
+      "staytime": "",
+      "modified": "2025-05-03 12:23:29 +08:00",
+      "url": "https://www.travel.taipei/zh-tw/attraction/details/1550",
+      "category": [
+        {
+          "id": 24,
+          "name": "主題商街"
+        }
+      ],
+      "target": [],
+      "service": [],
+      "friendly": [],
+      "images": [
+        {
+          "src": "https://www.travel.taipei/image/98634",
+          "subject": "",
+          "ext": ".jpg"
+        },
+        {
+          "src": "https://www.travel.taipei/image/98630",
+          "subject": "",
+          "ext": ".jpg"
+        },
+        {
+          "src": "https://www.travel.taipei/image/98631",
+          "subject": "",
+          "ext": ".jpg"
+        },
+        {
+          "src": "https://www.travel.taipei/image/98633",
+          "subject": "",
+          "ext": ".jpg"
+        }
+      ],
+      "files": [],
+      "links": []
+    },
+    {
+      "id": 1571,
+      "name": "台北花市",
+      "name_zh": null,
+      "open_status": 1,
+      "introduction": "喜愛花草的朋友們， 想要找各式便宜花卉，尤其是切花，有個地方一定不能錯過，就是內湖的臺北花市。\r\n\r\n臺北的花卉市場，可以從臺北橋頭草創期開始，歷經酒泉街萬和宮、濱江花市等。因為兼有批發和零售，是臺北所有花店的貨源，所以無奇不有，在這個花市不但能欣賞到各式花卉，還時常能在這裡挖掘到便宜的花卉。\r\n\r\n臺北花市共分AB兩館，A館1樓為切花攤位，販售滿天星、綠石竹、菊花、百合等多樣花卉，2樓為資材攤位，有花籃、盆栽、裝飾花、園藝工具等；B館1樓則為盆花攤位，販賣多肉植物、觀葉植物、蘭花等各樣盆栽，並備有停車場，方便民眾進館採買。\r\n\r\n內湖的臺北花市與假日花市有個相反的地方，那就是其營業時間是在一般的上班時間，而且是從清晨營業到中午，所以假日想去花市的民眾應注意營業時間。\r\n",
+      "open_time": "周一至周六04:00至12:00, 公休日：依臺北花市年度公告而定",
+      "zipcode": "114",
+      "distric": "內湖區",
+      "address": "114 臺北市內湖區新湖三路28號",
+      "tel": "+886-2-27909729",
+      "fax": "",
+      "email": "service@tflower.com.taipei",
+      "months": "01,07,02,08,03,09,04,10,05,11,06,12",
+      "nlat": 25.0638,
+      "elong": 121.57395,
+      "official_site": "http://www.tflower.com.tw/TFAWebUI/",
+      "facebook": "https://www.facebook.com/taipeiflowerauction/",
+      "ticket": "",
+      "remind": "",
+      "staytime": "",
+      "modified": "2025-05-02 21:47:09 +08:00",
+      "url": "https://www.travel.taipei/zh-tw/attraction/details/1571",
+      "category": [
+        {
+          "id": 24,
+          "name": "主題商街"
+        }
+      ],
+      "target": [],
+      "service": [],
+      "friendly": [],
+      "images": [
+        {
+          "src": "https://www.travel.taipei/image/222735",
+          "subject": "",
+          "ext": ".jpg"
+        },
+        {
+          "src": "https://www.travel.taipei/image/222736",
+          "subject": "",
+          "ext": ".jpg"
+        },
+        {
+          "src": "https://www.travel.taipei/image/222737",
+          "subject": "",
+          "ext": ".jpg"
+        },
+        {
+          "src": "https://www.travel.taipei/image/222738",
+          "subject": "",
+          "ext": ".jpg"
+        },
+        {
+          "src": "https://www.travel.taipei/image/222739",
+          "subject": "",
+          "ext": ".jpg"
+        },
+        {
+          "src": "https://www.travel.taipei/image/222740",
+          "subject": "",
+          "ext": ".jpg"
+        },
+        {
+          "src": "https://www.travel.taipei/image/222741",
+          "subject": "",
+          "ext": ".jpg"
+        },
+        {
+          "src": "https://www.travel.taipei/image/222742",
+          "subject": "",
+          "ext": ".jpg"
+        },
+        {
+          "src": "https://www.travel.taipei/image/222743",
+          "subject": "",
+          "ext": ".jpg"
+        },
+        {
+          "src": "https://www.travel.taipei/image/222734",
+          "subject": "",
+          "ext": ".jpg"
+        }
+      ],
+      "files": [],
+      "links": []
+    },
+    {
+      "id": 101,
+      "name": "圓山大飯店",
+      "name_zh": null,
+      "open_status": 1,
+      "introduction": "圓山大飯店創立於民國41年（西元1952年），十四層宮殿式大樓，巍峨高聳於圓山之腰，前臨基隆河、後倚陽明山、東望松山、西眺淡水。飯店紅柱金瓦氣勢宏偉的外觀，襯托富麗堂皇的古典氣氛，傳達了中國的藝術之美，是台北市的代表地標之ㄧ，聞名世界。是中外人士觀光住宿或商務會議的最佳選擇。\r\n\r\n圓山的美，在於中國式的雄偉建築和富麗堂皇的古典氣派，圓山的神秘，在於傳奇性的歷史色彩和祕道傳說，圓山的寧靜清幽，在於它的遠離塵囂和鄰近閒情雅緻的風景線。\r\n\r\n百年金龍\r\n原本只是設置於台灣神社前的銅龍，在圓山飯店增建廳舍時特別保留原貌，完美呈現於金龍餐廳中，並在七十六年整修時，鍍上24K金，特別的是這條蟠龍只有三爪，和中國傳統的四爪或五爪龍不同。\r\n\r\n梅花藻井\r\n圓山大飯店大廳中央天花板有一口梅花造型的藻井，梅花中央五條金龍環繞一顆龍珠，意味「五福臨門」：藻井內周圍雖有23條金龍、16隻鳳凰，取其「3」諧音「升」意指步步高升，「16」伴隨大梅花「發」，則有一路發之意，梅花藻井象徵龍鳳呈祥，意義深遠。\r\n\r\n飛簷斗拱\r\n屋頂的飛簷與斗拱，道出中國的古老文明。垂脊上方一排蹲獸，盤據在挑出的飛簷之上，在正脊、垂脊間安置的鴟尾，是一種瓦製的獸型飾物；而屋頂下方，華麗但精緻有力的斗拱結構，這是中國建築最令人稱奇的堂奧。大廳落地玻璃門圓山大飯店正門的大型落地玻璃窗，典雅端正，但仔細觀察門上所繪紋路，就會發現其中暗藏六個古字「中華民國萬歲」，回溯重建圓山飯店時的時空背景，可以看出時空背景的轉換，及設計師創作時的巧思。\r\n\r\n石敢當\r\n牌樓前石階入口所豎立的大石塊石碑上，刻有于右任先生親筆所題的草書，龍飛鳳舞，筆力遒勁的四個大字『劍潭勝跡』，經過多方查證，這四個字表達出整個圓山就是聖地的意思，也因為如此，維繫了圓山百年人氣不墜的崇高地位。",
+      "open_time": "全天開放",
+      "zipcode": "104",
+      "distric": "中山區",
+      "address": "104 臺北市中山區中山北路四段1號",
+      "tel": "+886-2-28868888",
+      "fax": "+886-2-28852885",
+      "email": "grand@grand-hotel.org",
+      "months": "01,07,02,08,03,09,04,10,05,11,06,12",
+      "nlat": 25.07861,
+      "elong": 121.52629,
+      "official_site": "https://www.grand-hotel.org/TW/index.aspx",
+      "facebook": "",
+      "ticket": "",
+      "remind": "",
+      "staytime": "",
+      "modified": "2025-05-02 17:34:04 +08:00",
+      "url": "https://www.travel.taipei/zh-tw/attraction/details/101",
+      "category": [
+        {
+          "id": 13,
+          "name": "歷史建築"
+        }
+      ],
+      "target": [
+        {
+          "id": 61,
+          "name": "親子共學"
+        }
+      ],
+      "service": [],
+      "friendly": [
+        {
+          "id": 392,
+          "name": "無障礙友善服務"
+        }
+      ],
+      "images": [
+        {
+          "src": "https://www.travel.taipei/image/64181",
+          "subject": "",
+          "ext": ".jpg"
+        },
+        {
+          "src": "https://www.travel.taipei/image/64182",
+          "subject": "",
+          "ext": ".jpg"
+        },
+        {
+          "src": "https://www.travel.taipei/image/182763",
+          "subject": "",
+          "ext": ".jpg"
+        },
+        {
+          "src": "https://www.travel.taipei/image/182765",
+          "subject": "",
+          "ext": ".jpg"
+        },
+        {
+          "src": "https://www.travel.taipei/image/182766",
+          "subject": "",
+          "ext": ".jpg"
+        },
+        {
+          "src": "https://www.travel.taipei/image/182768",
+          "subject": "",
+          "ext": ".jpg"
+        }
+      ],
+      "files": [],
+      "links": []
+    },
+    {
+      "id": 68,
+      "name": "艋舺龍山寺",
+      "name_zh": null,
+      "open_status": 1,
+      "introduction": "初創之龍山寺，規模雄偉，雕塑精緻，歷經嘉慶二十年（西元1815年）大地震重修，同治六年（西元1867年）暴風雨侵襲再行修築，至民國八年棟樑遭白蟻蛀蝕，當時住持福智大師率先捐出一生積蓄七千餘元，集資修復，奠定今日龍山寺之規模。民國卅四年於第二次世界大戰期間受空襲摧殘，中殿全毀，惟觀世音菩薩聖像仍端坐蓮臺，寶相莊嚴；以往遇有空襲，居民皆以觀世音菩薩蓮座下為避難所，然此次空襲前夕，避難居民因不堪兇蚊肆虐紛紛返家，以致中殿受毀時無人受難，居民相信是觀世音菩薩庇護而奔相走告，此一神蹟更使得觀世音菩薩成為艋舺居民一大精神支柱。龍山寺坐北朝南，面呈回字形，為中國古典三進四合院之宮殿式建築，由前殿、正殿、後殿及左右護龍構成。前殿為11開間，分為三川殿、龍門廳、虎門廳。三川殿前有一對全臺僅見之銅鑄蟠龍柱，正面牆堵則由花崗石與青斗石混合組構而成，牆上故事多出自三國演義和封神榜，富於教育意義。正殿屋頂採歇山重簷式，四面走馬廊共42根柱子構成，殿外牆堵留有多幅著名書法家石刻，殿內的螺旋藻井不費一釘一鐵，全由斗栱相嵌築構而成。後殿屋頂採歇山重簷式，為典型儒、道教諸神佛供奉處。左右護龍各配有鐘樓與鼓樓，晨鐘暮鼓，其轎頂式扁六角形的屋頂，造形獨特。全寺屋頂脊帶和飛簷由龍鳳、麒麟等吉祥物造形，飾以剪黏和交趾陶，色彩瑰麗，堪稱臺灣剪黏藝術之精華。\r\n民國七十四年政府公告艋舺龍山寺為國家保護之二級古蹟，與國立故宮博物院、中正紀念堂並列為國際觀光客來臺旅遊的三大名勝。龍山寺並於板橋文化路興建文化廣場大樓，民國九十四年落成啟用後，辦理多項課程與講座，以善盡弘揚佛法、提倡社教的文化價值。艋舺龍山寺每年定期舉辦節慶祭典及民俗活動，如農曆正月花燈展覽、四月浴佛節、七月盂蘭盆勝會等，民眾來到艋舺龍山寺除了欣賞臺灣寺廟建築藝術之美，亦可以感受傳統民俗文化的樂趣。\r\n\r\n(內文來源：艋舺龍山寺官方網站）",
+      "open_time": "6:00~22:00 (辦事處7:00-21:00)",
+      "zipcode": "108",
+      "distric": "萬華區",
+      "address": "108 臺北市萬華區廣州街211號",
+      "tel": "+886-2-23025162",
+      "fax": "",
+      "email": "",
+      "months": "01,07,02,08,03,09,04,10,05,11,06,12",
+      "nlat": 25.03716,
+      "elong": 121.4999,
+      "official_site": "http://www.lungshan.org.tw/",
+      "facebook": "",
+      "ticket": "",
+      "remind": "※21:45為最後入場時間",
+      "staytime": "",
+      "modified": "2025-05-02 14:07:35 +08:00",
+      "url": "https://www.travel.taipei/zh-tw/attraction/details/68",
+      "category": [
+        {
+          "id": 14,
+          "name": "宗教信仰"
+        }
+      ],
+      "target": [
+        {
+          "id": 61,
+          "name": "親子共學"
+        }
+      ],
+      "service": [],
+      "friendly": [
+        {
+          "id": 392,
+          "name": "無障礙友善服務"
+        }
+      ],
+      "images": [
+        {
+          "src": "https://www.travel.taipei/image/468018",
+          "subject": "",
+          "ext": ".jpg"
+        },
+        {
+          "src": "https://www.travel.taipei/image/468019",
+          "subject": "",
+          "ext": ".jpg"
+        },
+        {
+          "src": "https://www.travel.taipei/image/468020",
+          "subject": "",
+          "ext": ".jpg"
+        },
+        {
+          "src": "https://www.travel.taipei/image/468021",
+          "subject": "",
+          "ext": ".jpg"
+        },
+        {
+          "src": "https://www.travel.taipei/image/63935",
+          "subject": "",
+          "ext": ".jpg"
+        },
+        {
+          "src": "https://www.travel.taipei/image/468007",
+          "subject": "",
+          "ext": ".jpg"
+        },
+        {
+          "src": "https://www.travel.taipei/image/468010",
+          "subject": "",
+          "ext": ".jpg"
+        },
+        {
+          "src": "https://www.travel.taipei/image/468011",
+          "subject": "",
+          "ext": ".jpg"
+        },
+        {
+          "src": "https://www.travel.taipei/image/468015",
+          "subject": "",
+          "ext": ".jpg"
+        },
+        {
+          "src": "https://www.travel.taipei/image/468016",
+          "subject": "",
+          "ext": ".jpg"
+        },
+        {
+          "src": "https://www.travel.taipei/image/468017",
+          "subject": "",
+          "ext": ".jpg"
+        }
+      ],
+      "files": [],
+      "links": []
+    },
+    {
+      "id": 176,
+      "name": "五指山系_大崙頭尾山親山步道",
+      "name_zh": null,
+      "open_status": 1,
+      "introduction": "大崙頭山與大崙尾山位於五指山系西伸的主稜上，自東北向西南延伸，大崙尾山海拔451公尺，巨岩羅列、聳立成峰，大崙頭山海拔475公尺，是內湖地區最高的山脈，山頂平台視野廣闊，登高遠望風光極佳，兩山並列，氣勢懾人，成為士林中央社區重要的地標。\r\n\r\n大崙頭尾山親山步道\r\n\r\n大崙尾山因斷層通過、地勢較陡，加上水源區的保護下開發較少，自然生態植物保存完整，自中央社區登山口進入，迎面的是寬闊平坦的碎石路，與路旁的高聳林蔭相襯，一路走來涼爽舒適；山頂設有觀景台，可眺望外雙溪、陽明山一帶景致。\r\n\r\n步道往大崙頭山前進，位於山腰處的大崙湖，湖水碧綠、倒映山色；往大崙頭山的碧山路兩旁，秋芒迎風搖曳，涼爽宜人，山區北面有自然步道與萬溪產業道路銜接，步道隱密林中，內雙溪森林自然公園蓊鬱林相始終一路相陪。\r\n\r\n只緣身在此山中\r\n\r\n通往森林的路徑是寬敞舒適的枕木棧道。全段架高在樹木層中，不但可避免對地表岩石和植物造成傷害，也方便遊客觀察自然；每走一小段路就出現的解說牌，引領我們更了解四周的地質和生態環境。\r\n\r\n一路上有時會看到由步道中「竄出」的樹木，其實它們原本就長在那裡，我們借用了人家的地盤，當然就讓棧道環繞著它而搭起。這樣一來，林間原有的自然風貌得以保留下來，而我們也有方便舒適的步道可使用，豈不兩全其美。\r\n\r\n\r\n共享自然，大家都歡喜。森林中的「原住民」能保有生活空間，所以依然悠遊自在，蟲鳴鳥叫不絕於耳，時常也見松鼠跳躍林間。儘管一路上都在爬坡，豐富的生態不免讓人放慢腳步，或駐足欣賞，或對照解說牌，所以走完全程只覺輕鬆愉快，不會氣喘吁吁。\r\n\r\n若是中途還是想歇歇腳，時常拐個彎，路旁就有枕木平台，可觀景也可歇息。難得在都市的近郊，有長約一公里的天然枕木可踩踏，「識貨」的登山客多半赤腳體驗這舒暢身心的森林之旅。\r\n\r\n林相豐富其來有自\r\n\r\n由親山步道入口前往大崙尾山，迎面而來是一段寬闊平坦的碎石路。路旁高大樹木經風吹拂、樹葉沙沙作響聲，和行走碎石之上的踩踏聲正好「一唱一和」，看來漫步森林間的美好體驗顯然還會延續下去。\r\n\r\n即便其他路段多半是石階路，蓊鬱山林始終一路相隨。進入這個大自然的生態綠廊，林相成熟豐富，因為森林步道穿越過隱密且幾乎未開發的大崙頭山西面山麓，而大崙尾山雖然沒有原始森林，但是因為地勢較陡，開發不易，加上地處水源區，因此人為干擾較少、自然生態也就保存得比較好囉。\r\n\r\n在大崙頭山和大崙尾山之間的迎風面，終年受強風衝擊，樹高明顯下降，就形成由紅楠、森氏楊桐、大頭茶、小葉赤楠等植物所組成的「風衝矮林」。而東北季風造成的冷溫效應，使得原本在有如兩千公尺高的中海拔生態環境才能生長的植物，在這四百多公尺高的環境也能存活，形成了極為特殊的植物北降現象。\r\n\r\n例如原本長有溫帶地區的野鴨椿、雷公藤等落葉植物，在這裡一樣活得精采。山頂地區出現暖溫帶闊葉林，較溫暖的溪谷地則有熱帶地區常見的板根、幹生花等植物，加上原屬的亞熱帶闊葉林生態系，等於濃縮熱帶、亞熱帶、暖溫帶於一地，孕育出獨特且豐富的壓縮型生態系。\r\n\r\n登高遠眺好風景\r\n\r\n大崙頭山是內湖區最高的山脈，登高望遠絕對有好風景。山頂平台視野遼闊，廣場兩側都有觀景處。左側近景有大崙尾山和獅頭山，右側下方的小山丘則是圓仔山。從這裡遠眺大崙尾山，氣勢特別雄偉，不像是只有四百多公尺的小山。\r\n\r\n向北眺望，台北北邊的屏障大屯山系群山，以及紗帽山的火山造型清晰可見；山谷對岸的平等里即是火山噴發時熔岩流造成的平台。走至另一頭，五指山和內湖大湖公園一帶湖光水色相映，越過基隆河，由汐止綿延至平溪、石碇、基隆的山巒一望無際。\r\n\r\n大崙尾山頂附近不僅休憩涼亭多，觀景處也不少。山頂平台非常遼闊，設有簡單的觀景台，可眺望外雙溪、陽明山國家公園一帶的景緻。沿小階梯下到附近搭棚小屋旁的平台，又是不同的體會。\r\n\r\n接近山頂、步道旁的大型瞭望台，則有360度的全景視野，環顧四周綿延起伏的五指山系和汐止方向群峰山巒，頗有登上艦艇、雄霸一方的乘風快意。",
+      "open_time": "開放空間",
+      "zipcode": "114",
+      "distric": "內湖區",
+      "address": "114 臺北市內湖區碧山路26-6號(大崙頭尾山步道拓印亭)",
+      "tel": "+886-2-27593001",
+      "fax": "",
+      "email": "",
+      "months": "01,07,02,08,03,09,04,10,05,11,06,12",
+      "nlat": 25.10564,
+      "elong": 121.57766,
+      "official_site": "",
+      "facebook": "",
+      "ticket": "",
+      "remind": "備註事項\r\n1.路徑長度：登山步道約3.63公里，全線約5.4公里\r\n2.海拔高度：475公尺\r\n3.步行時間：約2小時",
+      "staytime": "",
+      "modified": "2025-05-02 13:52:08 +08:00",
+      "url": "https://www.travel.taipei/zh-tw/attraction/details/176",
+      "category": [
+        {
+          "id": 16,
+          "name": "戶外踏青"
+        },
+        {
+          "id": 19,
+          "name": "親子共遊"
+        }
+      ],
+      "target": [
+        {
+          "id": 61,
+          "name": "親子共學"
+        }
+      ],
+      "service": [],
+      "friendly": [],
+      "images": [],
+      "files": [],
+      "links": []
+    },
+    {
+      "id": 1574,
+      "name": "台北市建國假日玉市",
+      "name_zh": null,
+      "open_status": 1,
+      "introduction": "建國假日玉市位於建國高架橋下，東南亞具有相當規模的玉石市場之一，也是臺灣玉石收藏家的朝聖地。這裡的前身為光華假日玉市，位於舊光華商場旁，1989年遷至現址後，繼續承載著豐富的文化與商業價值。\r\n\r\n市場內展售的商品種類繁多，包括具有歷史價值的中國古玉、晶瑩剔透的水晶、出自臺灣東海岸的特色臺灣玉，以及宗教文物和裝飾品。還有廣受歡迎的珍珠、瑪瑙等珠寶飾品，讓遊客無論是購物還是欣賞，都能滿足需求。\r\n\r\n建國假日玉市就像一座開放式的玉石博物館，充滿文化內涵與藝術氛圍。每件玉器和文物背後都有獨特的故事，不僅展示玉石工藝的精湛技術，還傳遞東方文化中對玉的深厚情感與象徵意義。\r\n\r\n週末來到建國假日玉市，無論是尋找一件心儀的收藏品，還是僅僅欣賞玉石的細膩之美，這裡都能帶給你一段充實而愉快的文化體驗。如果你熱愛藝術、文物或收藏，這裡是臺北旅遊不可錯過的一站！",
+      "open_time": "星期日: 09:00 – 18:00\r\n星期一: 休息\r\n星期二: 休息\r\n星期三: 休息\r\n星期四: 休息\r\n星期五: 休息\r\n星期六: 09:00 – 20:00",
+      "zipcode": "106",
+      "distric": "大安區",
+      "address": "106 臺北市大安區建國南路、仁愛路高架橋下",
+      "tel": "+886-2-27085931",
+      "fax": "",
+      "email": "",
+      "months": "01,07,02,08,03,09,04,10,05,11,06,12",
+      "nlat": 25.03836,
+      "elong": 121.53788,
+      "official_site": "https://www.tcma.gov.taipei/News_Content.aspx?n=FAC14AD2DE4E01A4&sms=32F7BA052C5CA548&s=0890E203237B99DC",
+      "facebook": "https://www.facebook.com/%E5%BB%BA%E5%9C%8B%E5%81%87%E6%97%A5%E8%A7%80%E5%85%89%E7%8E%89%E5%B8%82-347730085634408/",
+      "ticket": "",
+      "remind": "備註事項：仁愛路至106大安區濟南路段之建國南路高架橋下",
+      "staytime": "",
+      "modified": "2025-05-02 10:30:26 +08:00",
+      "url": "https://www.travel.taipei/zh-tw/attraction/details/1574",
+      "category": [
+        {
+          "id": 24,
+          "name": "主題商街"
+        }
+      ],
+      "target": [],
+      "service": [],
+      "friendly": [],
+      "images": [
+        {
+          "src": "https://www.travel.taipei/image/491983",
+          "subject": "",
+          "ext": ".jpg"
+        },
+        {
+          "src": "https://www.travel.taipei/image/491984",
+          "subject": "",
+          "ext": ".jpg"
+        },
+        {
+          "src": "https://www.travel.taipei/image/491985",
+          "subject": "",
+          "ext": ".jpg"
+        },
+        {
+          "src": "https://www.travel.taipei/image/491986",
+          "subject": "",
+          "ext": ".jpg"
+        },
+        {
+          "src": "https://www.travel.taipei/image/491987",
+          "subject": "",
+          "ext": ".jpg"
+        },
+        {
+          "src": "https://www.travel.taipei/image/491988",
+          "subject": "",
+          "ext": ".jpg"
+        },
+        {
+          "src": "https://www.travel.taipei/image/491989",
+          "subject": "",
+          "ext": ".jpg"
+        },
+        {
+          "src": "https://www.travel.taipei/image/491990",
+          "subject": "",
+          "ext": ".jpg"
+        },
+        {
+          "src": "https://www.travel.taipei/image/491991",
+          "subject": "",
+          "ext": ".jpg"
+        },
+        {
+          "src": "https://www.travel.taipei/image/491992",
+          "subject": "",
+          "ext": ".png"
+        }
+      ],
+      "files": [],
+      "links": []
+    },
+    {
+      "id": 1575,
+      "name": "光華玉市",
+      "name_zh": null,
+      "open_status": 1,
+      "introduction": "玉是中國人最喜愛的一種寶石，在中國文化中佔很重要的一部分，古代中國人就常常繫玉於腰間，而君王的璽印，也是用玉製成，今天更有很多玉刻製成佛像，做成項鍊，手機掛飾等，帶在身上，有保佑的意思，成為許多人的最愛。\r\n\r\n在光華商圈周邊，長久以來有許多商家、小販在此販賣玉和古董，由於為數不少，漸漸成為玉器的商區，形成了光華玉市，是臺北市除了建國假日玉市之外，大眾化玉石的集中市場。\r\n\r\n這裡販賣的玉器，大小皆有，價格便宜，但是品質多樣，所以有意在此選購玉器，最好先培養鑑賞知識，且購買時要貨比3家，才不會吃虧，總之，多看多聽多問多學，精心的挑選，一定會找到寶貝的。",
+      "open_time": "",
+      "zipcode": "106",
+      "distric": "大安區",
+      "address": "106 臺北市大安區新生北路一段1號之1",
+      "tel": "+886-2-27213127",
+      "fax": "",
+      "email": "",
+      "months": "01,07,02,08,03,09,04,10,05,11,06,12",
+      "nlat": 25.04471,
+      "elong": 121.53318,
+      "official_site": "",
+      "facebook": "",
+      "ticket": "",
+      "remind": "備註事項：八德路1段與新生南路交叉口",
+      "staytime": "",
+      "modified": "2025-05-02 10:26:29 +08:00",
+      "url": "https://www.travel.taipei/zh-tw/attraction/details/1575",
+      "category": [
+        {
+          "id": 24,
+          "name": "主題商街"
+        }
+      ],
+      "target": [],
+      "service": [],
+      "friendly": [],
+      "images": [],
+      "files": [],
+      "links": []
+    },
+    {
+      "id": 1579,
+      "name": "四平陽光商圈",
+      "name_zh": null,
+      "open_status": 1,
+      "introduction": "四平陽光商圈與夜市有相似、有相異，最大不同在於，它是日間開放。街道徒步區上隨處可見露天咖啡座及咖啡香、不定時的街頭藝人表演驚喜、懸掛於天空隨風飄揚的四色布旗，讓這條不算長的徒步區增添了許多浪漫情懷與無限想像過去。\r\n\r\n隨著國際化及觀光化的趨勢，到此的外國觀光客日益增多，商家除了可以用簡單的英、日文與外國觀光客溝通之外，鄰近的六福客棧也成立外籍旅客服務中心，提供外籍觀光客免費的諮詢導覽服務。\r\n\r\n部分文字來源／台北市商業處網站",
+      "open_time": "每日11:00-19:00",
+      "zipcode": "104",
+      "distric": "中山區",
+      "address": "104 臺北市中山區四平街",
+      "tel": "+886-2-25018531",
+      "fax": "",
+      "email": "",
+      "months": "01,07,02,08,03,09,04,10,05,11,06,12",
+      "nlat": 25.05367,
+      "elong": 121.53409,
+      "official_site": "https://www.tcma.gov.taipei/News_Content.aspx?n=FAC14AD2DE4E01A4&sms=32F7BA052C5CA548&s=CB6640102521B1D8",
+      "facebook": "https://www.facebook.com/%E5%9B%9B%E5%B9%B3%E9%99%BD%E5%85%89%E5%95%86%E5%9C%88-192475574118915/",
+      "ticket": "",
+      "remind": "備註事項：南京東路二段與長春路間",
+      "staytime": "",
+      "modified": "2025-05-02 01:31:03 +08:00",
+      "url": "https://www.travel.taipei/zh-tw/attraction/details/1579",
+      "category": [
+        {
+          "id": 24,
+          "name": "主題商街"
+        }
+      ],
+      "target": [],
+      "service": [],
+      "friendly": [],
+      "images": [
+        {
+          "src": "https://www.travel.taipei/image/176127",
+          "subject": "",
+          "ext": ".jpg"
+        },
+        {
+          "src": "https://www.travel.taipei/image/176128",
+          "subject": "",
+          "ext": ".jpg"
+        },
+        {
+          "src": "https://www.travel.taipei/image/176129",
+          "subject": "",
+          "ext": ".jpg"
+        },
+        {
+          "src": "https://www.travel.taipei/image/176130",
+          "subject": "",
+          "ext": ".jpg"
+        },
+        {
+          "src": "https://www.travel.taipei/image/176131",
+          "subject": "",
+          "ext": ".jpg"
+        },
+        {
+          "src": "https://www.travel.taipei/image/176897",
+          "subject": "",
+          "ext": ".jpg"
+        },
+        {
+          "src": "https://www.travel.taipei/image/176898",
+          "subject": "",
+          "ext": ".jpg"
+        },
+        {
+          "src": "https://www.travel.taipei/image/176899",
+          "subject": "",
+          "ext": ".jpg"
+        },
+        {
+          "src": "https://www.travel.taipei/image/176125",
+          "subject": "",
+          "ext": ".jpg"
+        },
+        {
+          "src": "https://www.travel.taipei/image/176126",
+          "subject": "",
+          "ext": ".jpg"
+        }
+      ],
+      "files": [],
+      "links": []
+    },
+    {
+      "id": 1582,
+      "name": "東區地下街",
+      "name_zh": null,
+      "open_status": 1,
+      "introduction": "東區地下街全長725公尺，連接捷運忠孝復興站至忠孝敦化站，出入口共有17處、廣場共有7座，交通十分便利。\r\n\r\n寬敞明亮的東區地下街融合著東區特有PARTY元素，全區分為生活百貨、流行服飾、潮流精品，美妝飾品、3C電子、美食等6大主軸業種，琳瑯滿目的商品，無論選物雜貨或設計品牌皆會讓人驚艷不已。\r\n\r\n各出入口連接周邊商圈、廣場，像是百貨公司、頂好廣場、統領商圈、龍門廣場等，提供民眾優質的購物及休憩空間。\r\n\r\n另連接東區地下街的頂好及龍門廣場，結合當地瑠公圳與商圈等獨特之人文歷史及地理環境特質，於地下街出入口設置「瀑布」及「噴泉」之裝飾藝術，融合在地人文藝術。\r\n\r\n(部分資料來源：臺北捷運公司網站)",
+      "open_time": "週一至週日11：00~22：00\r\n",
+      "zipcode": "106",
+      "distric": "大安區",
+      "address": "106 臺北市大安區大安路一段77號B1",
+      "tel": "+886-2-25363001",
+      "fax": "",
+      "email": "",
+      "months": "01,07,02,08,03,09,04,10,05,11,06,12",
+      "nlat": 25.04169,
+      "elong": 121.54646,
+      "official_site": "",
+      "facebook": "",
+      "ticket": "",
+      "remind": "",
+      "staytime": "",
+      "modified": "2025-05-02 01:17:35 +08:00",
+      "url": "https://www.travel.taipei/zh-tw/attraction/details/1582",
+      "category": [
+        {
+          "id": 24,
+          "name": "主題商街"
+        }
+      ],
+      "target": [],
+      "service": [],
+      "friendly": [],
+      "images": [
+        {
+          "src": "https://www.travel.taipei/image/292353",
+          "subject": "",
+          "ext": ".jpg"
+        },
+        {
+          "src": "https://www.travel.taipei/image/282393",
+          "subject": "",
+          "ext": ".jpg"
+        },
+        {
+          "src": "https://www.travel.taipei/image/282394",
+          "subject": "",
+          "ext": ".jpg"
+        },
+        {
+          "src": "https://www.travel.taipei/image/282395",
+          "subject": "",
+          "ext": ".jpg"
+        },
+        {
+          "src": "https://www.travel.taipei/image/282396",
+          "subject": "",
+          "ext": ".jpg"
+        },
+        {
+          "src": "https://www.travel.taipei/image/282397",
+          "subject": "",
+          "ext": ".jpg"
+        },
+        {
+          "src": "https://www.travel.taipei/image/282399",
+          "subject": "",
+          "ext": ".jpg"
+        },
+        {
+          "src": "https://www.travel.taipei/image/282400",
+          "subject": "",
+          "ext": ".jpg"
+        }
+      ],
+      "files": [],
+      "links": []
+    },
+    {
+      "id": 1584,
+      "name": "艋舺服飾商圈",
+      "name_zh": null,
+      "open_status": 1,
+      "introduction": "來到萬華，龍山商場後面、全臺知名的大理街艋舺服飾商圈是必逛的成衣大街，這裡也是來自各地批客們批發各式服飾的大本營。\r\n\r\n艋舺服飾商圈成因是艋舺開發很早，加上萬華火車站就位在這兒，交通往來、交易方便，形成了一大成衣市集。早期這裡曾有高達近2千家各式服飾店面，並且從設計、打版、生產、行銷一貫作業，品質和價格都十分具有競爭力。後來因時代變遷，服飾商圈現在僅存約4百家店，服飾的種類也較偏向成熟的女裝，約佔所有店家的八成，另外一成是童裝，還有團體服的訂製，至於男裝則已越來越少，甚至和團體服併在一起，和五分埔走年輕女性、活潑風格有明顯的不同。\r\n\r\n平日這裡車水馬龍都是補貨、送貨的卡車和批客的車子，也有些客人是專程搭車來挖寶的，各種款式的服飾、配件，走一趟下來，讓人看得眼花撩亂。",
+      "open_time": "商圈各店家營業時間不同",
+      "zipcode": "108",
+      "distric": "萬華區",
+      "address": "108 臺北市萬華區位於萬華區大理街、西園路、和平西路、康定路附近",
+      "tel": "+886-2-23363999",
+      "fax": "",
+      "email": "",
+      "months": "01,07,02,08,03,09,04,10,05,11,06,12",
+      "nlat": 25.03434,
+      "elong": 121.49936,
+      "official_site": "",
+      "facebook": "https://www.facebook.com/mogataipei/?locale=zh_TW",
+      "ticket": "",
+      "remind": "",
+      "staytime": "",
+      "modified": "2025-05-02 01:02:47 +08:00",
+      "url": "https://www.travel.taipei/zh-tw/attraction/details/1584",
+      "category": [
+        {
+          "id": 24,
+          "name": "主題商街"
+        }
+      ],
+      "target": [],
+      "service": [],
+      "friendly": [],
+      "images": [
+        {
+          "src": "https://www.travel.taipei/image/89134",
+          "subject": "",
+          "ext": ".jpg"
+        },
+        {
+          "src": "https://www.travel.taipei/image/89135",
+          "subject": "",
+          "ext": ".jpg"
+        },
+        {
+          "src": "https://www.travel.taipei/image/89131",
+          "subject": "",
+          "ext": ".jpg"
+        },
+        {
+          "src": "https://www.travel.taipei/image/89132",
+          "subject": "",
+          "ext": ".jpg"
+        },
+        {
+          "src": "https://www.travel.taipei/image/89133",
+          "subject": "",
+          "ext": ".jpg"
+        }
+      ],
+      "files": [],
+      "links": []
+    }
+  ]
+}
