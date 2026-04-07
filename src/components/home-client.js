@@ -1,30 +1,57 @@
 'use client'
 
-import { useEffect, useMemo, useState } from 'react'
-import CardComponent from '@/components/card'
-import PaginationComponent from '@/components/pagination'
-import SearchComponent from '@/components/search'
+import { useEffect, useState } from 'react'
+import { useSearchParams } from 'next/navigation'
+import CardComponent from '@/components/card.js'
+import PaginationComponent from '@/components/pagination.js'
+import SearchComponent from '@/components/search.js'
+import { getAttractions } from '@/lib/attractions-api'
+import { getCategoryIds } from '@/lib/categoryIds-api'
 
-export default function HomeClient({
-  attractionsList = [],
-  categoryIdsList,
-  currentPage,
-}) {
+export default function HomeClient() {
+  const searchParams = useSearchParams()
+
+  const keyword = searchParams.get('keyword') ?? ''
+  const page = searchParams.get('page') ?? '1'
+  const categoryIds = searchParams.get('categoryIds') ?? ''
+
+  const [attractionsList, setAttractionsList] = useState({ data: [] })
+  const [categoryIdsList, setCategoryIdsList] = useState({ data: {} })
   const [selectedIds, setSelectedIds] = useState([])
   const [favorites, setFavorites] = useState([])
-  const [hydrated, setHydrated] = useState(false)
   const [showAlert, setShowAlert] = useState(false)
+  const [loading, setLoading] = useState(true)
+
   useEffect(() => {
-    const saved = localStorage.getItem('favorites')
-    if (saved) {
-      try {
-        setFavorites(JSON.parse(saved))
-      } catch {
-        setFavorites([])
+    async function init() {
+      setLoading(true)
+
+      const [attractions, categories] = await Promise.all([
+        getAttractions({
+          categoryIds,
+          keyword,
+          page,
+        }),
+        getCategoryIds(),
+      ])
+
+      setAttractionsList(attractions)
+      setCategoryIdsList(categories)
+
+      const saved = localStorage.getItem('favorites')
+      if (saved) {
+        try {
+          setFavorites(JSON.parse(saved))
+        } catch {
+          setFavorites([])
+        }
       }
+
+      setLoading(false)
     }
-    setHydrated(true)
-  }, [])
+
+    init()
+  }, [keyword, page, categoryIds])
 
   function toggleSelect(id) {
     setSelectedIds((prev) =>
@@ -35,56 +62,44 @@ export default function HomeClient({
   }
 
   function addToFavorites() {
-    const selectedItems = attractionsList.filter((item) =>
+    const selectedItems = attractionsList.data.filter((item) =>
       selectedIds.includes(item.id)
     )
-    
+
+    if (selectedItems.length === 0) return
+
     const merged = [...favorites, ...selectedItems]
 
     const uniqueFavorites = Array.from(
       new Map(merged.map((item) => [item.id, item])).values()
     )
-    if(uniqueFavorites.length <=0) return
+
     setFavorites(uniqueFavorites)
     localStorage.setItem('favorites', JSON.stringify(uniqueFavorites))
     setSelectedIds([])
-    // 顯示 alert
-    setShowAlert(true)
 
-    // 2 秒後消失
-    setTimeout(() => {
-      setShowAlert(false)
-    }, 2000)
+    setShowAlert(true)
+    setTimeout(() => setShowAlert(false), 2000)
   }
 
-  const favoriteIds = useMemo(
-    () => new Set(favorites.map((item) => item.id)),
-    [favorites]
-  )
+  if (loading) {
+    return <div className="p-4">Loading...</div>
+  }
 
   return (
     <div>
-      {showAlert&& (
-        <div
-          className={`
-            fixed top-15 right-5 z-50
-            bg-green-500 text-white px-4 py-2 rounded shadow-lg
-            transition-all duration-300
-            ${showAlert ? 'opacity-100 translate-y-0' : 'opacity-0 -translate-y-2'}
-          `}
-        >
+      {showAlert && (
+        <div className="fixed top-5 right-5 z-50 bg-green-500 text-white px-4 py-2 rounded shadow-lg">
           ✅ 已成功加入我的最愛
         </div>
       )}
+
       <div className="flex flex-col flex-1 items-center justify-center font-sans dark:bg-black">
         <div className="grid lg:grid-cols-2 md:gap-4 gap-2 grid-cols-1 mb-2">
           <SearchComponent categoryIdsList={categoryIdsList} />
 
           <div className="ml-auto mb-2">
-            <a
-              className="mb-2 hover:text-blue-300 transition"
-              href="/favorite"
-            >
+            <a className="mb-2 hover:text-blue-300 transition" href="/favorite">
               🌟查看我的最愛
             </a>
             <span className="mx-2 inline-block">|</span>
@@ -99,17 +114,16 @@ export default function HomeClient({
 
         <section>
           <CardComponent
-            attractionsList={attractionsList}
+            attractionsList={attractionsList.data}
             selectedIds={selectedIds}
             onToggle={toggleSelect}
-            favoriteIds={favoriteIds}
-            hydrated={hydrated}
+            favoriteIds={new Set(favorites.map((item) => item.id))}
           />
 
           <PaginationComponent
-            currentPage={currentPage}
+            currentPage={Number(page)}
             totalPage={10}
-            count={attractionsList.length}
+            count={attractionsList.data.length}
           />
         </section>
       </div>
