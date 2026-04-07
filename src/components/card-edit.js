@@ -131,7 +131,7 @@ export default function EditCard({ attractionsList, onSave, onDelete }) {
               height={200}
               className="w-full" 
               unoptimized
-              src={attraction.images?.[0]?.src || `${basePath}/Bg_1280*400.png`}
+              src={attraction.images?.[0]?.src || `${basePath}/BG_1280*400.png`}
               alt={attraction.name}
             />
 

@@ -41,12 +41,12 @@ export default function Card({
               ${isFavorited ?  '': 'cursor-pointer'}  
             `}
           >
-            <img 
+            <Image 
               width={200}
               height={200}
               className="w-full" 
               unoptimized
-              src={attraction.images?.[0]?.src || `${basePath}/Bg_1280*400.png`}
+              src={attraction.images?.[0]?.src || `${basePath}/BG_1280*400.png`}
               alt="Sunset in the mountains"
             />
             <div className="px-6 py-4">
