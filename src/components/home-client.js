@@ -1,6 +1,6 @@
 'use client'
 
-import { useEffect, useState } from 'react'
+import { useEffect, useMemo, useState } from 'react'
 import { useSearchParams } from 'next/navigation'
 import CardComponent from '@/components/card.js'
 import PaginationComponent from '@/components/pagination.js'
@@ -21,6 +21,7 @@ export default function HomeClient() {
   const [selectedIds, setSelectedIds] = useState([])
   const [favorites, setFavorites] = useState([])
   const [showAlert, setShowAlert] = useState(false)
+  const [hydrated, setHydrated] = useState(false)
   const [loading, setLoading] = useState(true)
 
   useEffect(() => {
@@ -47,7 +48,7 @@ export default function HomeClient() {
           setFavorites([])
         }
       }
-
+      setHydrated(true)
       setLoading(false)
     }
 
@@ -86,6 +87,10 @@ export default function HomeClient() {
   if (loading) {
     return <div className="p-4">Loading...</div>
   }
+  const favoriteIds = useMemo(
+    () => new Set(favorites.map((item) => item.id)),
+    [favorites]
+  )
   const basePath = process.env.NODE_ENV === 'production' ? '/react-next-travel' : ''
   return (
     <div>
@@ -118,14 +123,14 @@ export default function HomeClient() {
             attractionsList={attractionsList.data}
             selectedIds={selectedIds}
             onToggle={toggleSelect}
-            favoriteIds={new Set(favorites.map((item) => item.id))}
+            favoriteIds={favoriteIds}
+            hydrated={hydrated}
           />
 
           <PaginationComponent
             currentPage={Number(page)}
             totalPage={10}
             count={attractionsList.data.length}
-            pageSize={30}
           />
         </section>
       </div>

@@ -2,7 +2,7 @@
 
 import { useRouter, useSearchParams, usePathname } from 'next/navigation'
 
-function Pagination({ currentPage, totalPage, count, pageSize = 30 }) {
+function Pagination({ currentPage, totalPage, count, pageSize = 29 }) {
   const router = useRouter()
   const pathname = usePathname()
   const searchParams = useSearchParams()
