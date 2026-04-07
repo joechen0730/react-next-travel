@@ -11,6 +11,9 @@ export default function Card({
   favoriteIds,
   hydrated,
 }) {
+  const basePath = process.env.NODE_ENV === 'production'
+    ? '/react-next-travel'
+    : ''
   return (
     <div className="grid md:grid-cols-3 md:gap-4 gap-2 grid-cols-1"> 
       {attractionsList.map((attraction) => {
@@ -45,7 +48,7 @@ export default function Card({
               height={200}
               className="w-full" 
               unoptimized
-              src={attraction.images?.[0]?.src || '/Bg_1280*400.png'}
+              src={attraction.images?.[0]?.src || `${basePath}/Bg_1280*400.png`}
               alt="Sunset in the mountains"
             />
             <div className="px-6 py-4">

@@ -9,6 +9,9 @@ import { getAttractions } from '@/lib/attractions-api'
 import { getCategoryIds } from '@/lib/categoryIds-api'
 
 export default function HomeClient() {
+    const basePath = process.env.NODE_ENV === 'production'
+    ? '/react-next-travel'
+    : ''
   const searchParams = useSearchParams()
 
   const keyword = searchParams.get('keyword') ?? ''
@@ -99,7 +102,7 @@ export default function HomeClient() {
           <SearchComponent categoryIdsList={categoryIdsList} />
 
           <div className="ml-auto mb-2">
-            <a className="mb-2 hover:text-blue-300 transition" href="/favorite">
+            <a className="mb-2 hover:text-blue-300 transition" href={`${basePath}/favorite`}>
               🌟查看我的最愛
             </a>
             <span className="mx-2 inline-block">|</span>

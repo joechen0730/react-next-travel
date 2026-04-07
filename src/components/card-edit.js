@@ -10,6 +10,9 @@ const colors = [
 ]
 
 export default function EditCard({ attractionsList, onSave, onDelete }) {
+  const basePath = process.env.NODE_ENV === 'production'
+    ? '/react-next-travel'
+    : ''
   const [errors, setErrors] = useState({})
   const [editingId, setEditingId] = useState(null)
   const [formData, setFormData] = useState({})
@@ -128,7 +131,7 @@ export default function EditCard({ attractionsList, onSave, onDelete }) {
               height={200}
               className="w-full" 
               unoptimized
-              src={attraction.images?.[0]?.src || '/Bg_1280*400.png'}
+              src={attraction.images?.[0]?.src || `${basePath}/Bg_1280*400.png`}
               alt={attraction.name}
             />
 

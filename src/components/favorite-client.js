@@ -17,7 +17,9 @@ function Favorite() {
   const startIndex = (currentPage - 1) * pageSize
   const currentList = favorites.slice(startIndex, startIndex + pageSize)
 
-  
+  const basePath = process.env.NODE_ENV === 'production'
+    ? '/react-next-travel'
+    : ''
   useEffect(() => {
     const saved = localStorage.getItem('favorites')
     if (saved) {
@@ -47,10 +49,10 @@ function Favorite() {
   }
   return (
     <div className="flex flex-col flex-1 items-center justify-center font-sans dark:bg-black">
-      <a className="ml-auto mb-2 hover:text-blue-300 transition" href="/">
+      <a className="ml-auto mb-2 hover:text-blue-300 transition" href={`${basePath}`}>
          <Image
           className="inline-block align-bottom"
-          src={"/house.png"} 
+          src={`${basePath}/house.png`} 
           width={30}
           height={30}
           alt="home"
