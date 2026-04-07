@@ -4,10 +4,12 @@ export async function getCategoryIds(type='') {
   // const useMock = process.env.NEXT_PUBLIC_USE_MOCK === 'true'
   // for build
   const useMock = true
-
+  const basePath = process.env.NODE_ENV === 'production'
+    ? '/react-next-travel'
+    : ''
   if (useMock) {
     return request({
-      url: `${process.env.NEXT_PUBLIC_BASE_URL}/mock/category_ attractions.json`,
+      url: `${basePath}/mock/category_attractions.json`,
       method: 'GET',
     })
   }

@@ -8,12 +8,14 @@ export async function getAttractions({
   // const useMock = process.env.NEXT_PUBLIC_USE_MOCK === 'true'
   // for build
   const useMock = true
-
+  const basePath = process.env.NODE_ENV === 'production'
+    ? '/react-next-travel'
+    : ''
   let result
 
   if (useMock) {
     result = await request({
-      url: `${process.env.NEXT_PUBLIC_BASE_URL}/mock/response_page_${page}.json`,
+      url: `${basePath}/mock/response_page_${page}.json`,
       method: 'GET',
     })
   } else {
