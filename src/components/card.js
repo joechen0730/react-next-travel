@@ -4,20 +4,41 @@ const colors = [
   'bg-yellow-50',
   'bg-green-50',
 ]
-export default function Card({attractionsList=[]}) {
+export default function Card({
+  attractionsList,
+  selectedIds,
+  onToggle,
+  favoriteIds,
+  hydrated,
+}) {
   return (
     <div className="grid md:grid-cols-3 md:gap-4 gap-2 grid-cols-1"> 
-      {attractionsList.map((attraction) => (
+      {attractionsList.map((attraction) => {
+      const isFavorited = hydrated && favoriteIds?.has(attraction.id)
+      return (
+        
         <article key={`${attraction.id}-${attraction.name}`} className="max-w-sm rounded overflow-hidden shadow-lg bg-gray-50 relative">
-          <input  
-            id={`${attraction.id}-checkbox`}
-            value={attraction.id}
-            type="checkbox"
-            className="peer absolute top-1 right-1 w-[20px] h-[20px]"
-          ></input>
+          {isFavorited ? (
+            <div className="absolute top-2 right-2 z-10 text-xl">
+              ⭐
+            </div>
+          ): (
+            <input  
+              id={`${attraction.id}-checkbox`}
+              value={attraction.id}
+              type="checkbox"
+              className="peer absolute top-1 right-1 w-[20px] h-[20px]"
+              checked={selectedIds.includes(attraction.id)}
+              onChange={() => onToggle(attraction.id)}
+            ></input>
+          )}
+
           <label 
             htmlFor={`${attraction.id}-checkbox`}
-            className="block cursor-pointer peer-checked:hover:bg-brand-softer peer-checked:border-brand-subtle peer-checked:bg-blue-100 hover:bg-neutral-secondary-medium peer-checked:text-fg-brand-strong"
+            className={`
+              block peer-checked:hover:bg-brand-softer peer-checked:border-brand-subtle peer-checked:bg-blue-100 hover:bg-neutral-secondary-medium peer-checked:text-fg-brand-strong
+              ${isFavorited ?  '': 'cursor-pointer'}  
+            `}
           >
             <Image 
               width={200}
@@ -42,7 +63,8 @@ export default function Card({attractionsList=[]}) {
             </div>
           </label>
         </article>
-      ))}
+      )
+    })}
     </div>
   )
 }
