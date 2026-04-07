@@ -16,8 +16,8 @@ const nextConfig = {
     domains: ['www.travel.taipei'],
     remotePatterns: [new URL('https://www.travel.taipei/image/**')]
   },
-  basePath: isProd ? '/react-next-travel' : '',
-  assetPrefix: isProd ? '/react-next-travel/' : '',
+  basePath: '/react-next-travel',
+  assetPrefix: '/react-next-travel/',
 }
 
 export default nextConfig
